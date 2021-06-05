@@ -1,0 +1,1046 @@
+[
+  {
+    "aks": "ایجاد اولین پروژه \nو توضیحات مقدماتی",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ایجاد اولین پروژه",
+    "namayesh": "https://aspb24.cdn.asset.aparat.com/aparat-video/363d0b24803b96bf6c1c3daf161f385d30742682-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY4YmU1NGUyODU5ZDQ1NzE5N2U1OTY3ZDRjN2IyMjUzIiwiZXhwIjoxNjE2ODc5ODQzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yio_2IT18tAknnkd_E-UcwodoRbX2PEfNAVIlqUR_Ic",
+    "toz": "اهداف یادگیری در این آموزش:\n۱. ایجاد پروژه اولیه و کار با برخی از بخش ها.\n۲. معرفی چند بخش کاربردی."
+  },
+  {
+    "aks": "تغییر رنگ پس زمینه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "رنگ پس زمینه",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/61864bea385b54abe2e427a5fb9f9edb30742867-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY0MWU5ZDY3NTcyNjk2NzA2ZGMzYjU5NWM3OWE4MmY4IiwiZXhwIjoxNjE3ODk0ODA4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ncMP5wu_cxhH4JTyR4r1a6TO8VZ2x1KC6ZAqYlDdtcM",
+    "toz": "شما در این اموزش یاد خواهید گرفت که چگونه رنگ پس زمینه های اشیاء را تغییر دهید."
+  },
+  {
+    "aks": "گذاشتن تصویر در برنامه و\nاجرای برنامه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "اجرای برنامه",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/b0305784c29bbc1ddbbf85773613401130743052-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIwNDBkMThkMjY1ZjBiYzFhNDk1OWMxZThmOTY2ZjAyIiwiZXhwIjoxNjE3ODk0OTA4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.oqpiqEH7yO-tHpUmWmfSZKP7S6U-MuVSsMS6hzibotk",
+    "toz": "در این قسمت با آموزش قرار دادن تصویر در برنامه و اجرا و نصب برنامه همراه شما هستیم"
+  },
+  {
+    "aks": "دستور دهی مقدماتی",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بلوک گذاری",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/ac1fac1fa73da008a05f617c281dc37b30743168-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRjOWVjNjJiZmU1ZmQ3OWU0NjNlNTE0ODIyOTVjYTU4IiwiZXhwIjoxNjE3ODk1MDE1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-GJvl2HTLeZkf4a1QOoaA6zNvCA-PXJAe7oSmp1bfxA",
+    "toz": "اهداف مورد بحث در این اموزش :\n۱. ساخت دکمه ورود و خروج.\n۲. بلوک گذاری ابتدایی.\n۳. افزودن جزء.\n۴. رفتن به صفحه بعد"
+  },
+  {
+    "aks": "بلوک گذاری ابتدایی بخش ۱",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بلوک گذاری بخش ۲",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/42c1297287d6be6ba1187c51eebef88b30743260-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImEyZjAzY2JhYThiNzVjMjgzZGYzMmNjZjU3ZDU0Nzk0IiwiZXhwIjoxNjE3ODk1MTAzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.2zhlwft-s4g0JL3SHOY36DYmp7qDnSSBLuwIPRDb4_g",
+    "toz": "اهداف مورد بحث در این اموزش :\n۱. آشکار و پنهان کردن دکمه ها.\n۲. بلوک گذاری ابتدایی.\n۳. معرفی بخش وقتی صفحه ایجاد میشود."
+  },
+  {
+    "aks": "قابلیت های باتون",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "قابلیت های باتون",
+    "namayesh": "",
+    "toz": "تمامی کارایی یک باتون نشان داده خواهد شد"
+  },
+  {
+    "aks": "فارسی سازی",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تغییر زبان",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/3f491cbb6bd16d8a3d74e111e94c73aa31202833-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM4MGQ2MDY0MjcxYjVmZjk0MmEzOGY1OTk2ZjYxZTliIiwiZXhwIjoxNjE3ODk1MTk1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.IJhlT97LErP6fFwns4rYYB6VfPSwPprlkXPg_xlzKWw",
+    "toz": "اموزش عوض کردن زبان اسکوچر به فارسی"
+  },
+  {
+    "aks": "بلوک گذاری ابتدایی بخش ۲",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ساخت یک برنامه ساده",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/1e122051bce21d24ede1d5ceee2ee02c31202926-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA2NjVjZmYxOGY0YmJmMDk4NzUzZmI1NzA3NmU2OTJhIiwiZXhwIjoxNjE3ODk1MjY1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.1fmVkP2pgqGP_TQEWbSriYcb4U4yNzgwi_-0oNoOXc0",
+    "toz": "بلوک گذاری ابتدایی + توضیح ۲بلوک جدید"
+  },
+  {
+    "aks": "اطلاعات برنامه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تنظیمات برنامه",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/cbe197324c08a11ec226a91dfc5f91d131202969-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjBhYWViMmRlNjkxMDNlMGFhNTg4NjBkMDY3YTJkZmE1IiwiZXhwIjoxNjE3ODk1MzU2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Av0jy-sJ6-05_bMOknPc0uy21zT_goW7WH_gccC13eE",
+    "toz": "اهداف مورد بحث در این اموزش :\n۱. تغییر رنگ بالای صفحه\n۲. تغییر نسخه برنامه\n۳. تغییر عکس برنامه"
+  },
+  {
+    "aks": "ساخت دیالوگ و پیغام",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ساخت دیالوگ و پیغام",
+    "namayesh": "",
+    "toz": "آموزش ساخت دیالوگ و پیغام ساده در اسکوچر"
+  },
+  {
+    "aks": "بلوک های اضافه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بلوک های اضافه",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/07937413c1f6de4c530c25c9726e408b31203124-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg2ZWJlMDMwYmM4OGI4ZjE2MzgzNWYwMWMxNTA0MjlhIiwiZXhwIjoxNjE3ODk1NDk5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yYROApW5gFHSiVyJ-HRZL-CQCzTro1fCpN48sEXItoI",
+    "toz": "دانلود و نصب بلوک های بیشتر"
+  },
+  {
+    "aks": "استفاده از تایمر",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تایمر",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/ae864756a2f2385799cb3a8c05e9f47131203176-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRlYWNlN2Y0NGI3YTc0YTU5ZmZiY2E5MDMwNjUzMDBlIiwiZXhwIjoxNjE4MDY5MzY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.iTu5YEio457IjiQd5FbkpMXyGpVSrbI4Phifh2ItHw4",
+    "toz": "آموزش استفاده از تایمر و زمان دادن به آن"
+  },
+  {
+    "aks": "ساخت صلوات شمار",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "صلوات شمار",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/46a5a3df4b1f2ae5608fd0c261b8b45b31203192-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjAwYjUwYWEyOGM2NzNlOGRkMjFjNmYxYzE1OTM1OTE1IiwiZXhwIjoxNjE4MDY5NTA1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.uREf3XIdR7CzkDxGO9hk0DP4t8nrlDBgcX2KboNf-TY",
+    "toz": "ساخت یک صلوات شمار ساده و بسیار کاربردی"
+  },
+  {
+    "aks": "تایمر صفحه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "رفتن به صفحه بعد",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/0bc730f8d5bc59a096b0a75f95f4c31831203223-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlkYTliMGUxMWY4Yjc3NjhmZTQ0YTFmNTYwNjFlMGQ1IiwiZXhwIjoxNjE4MDY5NjIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-8JOu0fW2Wx8lM1EtjAbZ_2ROfyHW2eiRrCNQgvvCfk",
+    "toz": "ساخت صفحه ای که بعد از ۵ ثانیه به صفحه بعد منتقل شود"
+  },
+  {
+    "aks": "گذاشتن صوت در برنامه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تنظیمات صدا",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/3387d2034c16f5f47393008469aec6dc31203249-144p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRjYzM0ZjU4ZTc1NDkxMjVmOTIyMzQzMGMzN2FmMGY3IiwiZXhwIjoxNjE4MDY5Njg2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.GCNupbaMoM0LVqa1vkfYVqsSy_XLZk_hDfkO08CNKlM",
+    "toz": "آموزش گذاشتن صدا در برنامه + وقتی کلیک شد صدا پخش شود"
+  },
+  {
+    "aks": "ساخت منوی کناری",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "منوی دراور",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/e347415a5b714e880997ecb5d293c25d31203274-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA4MGM5ODBkODk1ZWZjNTIzOTQ3NTMyZmJlNTBjYWI5IiwiZXhwIjoxNjE4MDY5NzUwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.zN7B1EXsavNGxDqz_BU5Av2gAtSUSGe8vvQp66T4viY",
+    "toz": "آموزش ساخت منوی کناری برنامه"
+  },
+  {
+    "aks": "ذخیره متن نوشته شده",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ذخیره متون",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/bdc0ca837d0b5fd631a328534c8a614431203305-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg0OTgxMTc3ZTc5ZDFjMjE5ZTAwYjhjNmYyNjc4ZGIyIiwiZXhwIjoxNjE4MDY5ODIxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.B4M969_Y3hybVniuiX27EvVWYfHDyEdZoN1iGwO4lQM",
+    "toz": "آموزش ساخت ذخیره کننده متن ، وقتی روی دکمه کلیک شوم متن در برنامه ذخیره خواهد شد"
+  },
+  {
+    "aks": "انتقال متن بین صفحات",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "انتقال متن",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/4477800b1b069a37429c8e6fe624ca3931203338-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM0ZTNmODQ0MGUyYzdkODM2MmM4NGRlMzZmMjk3ODFlIiwiZXhwIjoxNjE4MDY5OTAyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Yehq2nAkAKCa8xTnybsWZqvcdz87bmLQGMdv4fHnpwI",
+    "toz": "آموزش اینکه وقتی روی یک دکمه کلیک شد متن از یک صفحه به صفحه دیگر منتقل شود"
+  },
+  {
+    "aks": "ساخت تایمر پیشرفته",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ساخت تایمر",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/b9a5a5baecd183d3fce114debb9586b631203374-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjUzYjUwZjc2YjIwZDE0MTE5NzkzNTM5ZDBiMWVlY2RlIiwiZXhwIjoxNjE4MDY5OTkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.cQQTXGDIO4QF1C2zFJUNVhQ-kB8mhakJY_5U0cbtLrA",
+    "toz": "آموزش ساخت تایمر با قابلیت (شروع ، توقف ، بازنشانی)"
+  },
+  {
+    "aks": "تغییر فونت برنامه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "فونت",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/30d52c367998e4664732e25e1237d46d31203398-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY3OTNiODZiNzFhZTA1MDU1N2E5NTk3YTU5MDA1NTBlIiwiZXhwIjoxNjE4MDcwMDk4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jCGAQz3Rnf-woW0Ep-TM6zISYO7pJ9lMvfueDladZZo",
+    "toz": "آموزش تغییر فونت برنامه"
+  },
+  {
+    "aks": "تغییر رنگ خودکار + بلوک اضافه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بلوک گذاری بخش ۲",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/08aa0549b94e71777fc1da9f56e64fc931203443-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI1OThlZDA1NzY1ZGRiZjg4NjdhYjJmZTZhYzczNzk4IiwiZXhwIjoxNjE4MDcwMTg5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.4K_KC0P4VbUJKkoLQEZSpeFe1zt7wf7YOBsvOTJKiNw",
+    "toz": "اهداف مورد بحث در این اموزش :\n۱. آشکار و پنهان کردن دکمه ها.\n۲. بلوک گذاری ابتدایی.\n۳. معرفی بخش وقتی صفحه ایجاد میشود."
+  },
+  {
+    "aks": "تعیین رمز برای برنامه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "رمز",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/cd0466071285d78a4921dfe888ab975431203478-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRkZTYzNDFlNTgyZTg3NjY5NDVkZWFmZjI1ODI3ZTM1IiwiZXhwIjoxNjE4MDcwMzI3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.dF4tc8EviR_8eoTiIfp_VLw2dv2V3NAoXrZmPP6_P_k",
+    "toz": "آموزش ساخت رمز برای برنامه"
+  },
+  {
+    "aks": "ساخت دکمه پشتیبانی کانال",
+    "code1": "https://rubika.ir/",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "دکمه پشتیبانی",
+    "namayesh": "https://aspb25.cdn.asset.aparat.com/aparat-video/3fa5b145deead384624d1a8ca0243da331203497-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM5ZjIxZWUyMWNkYWZjZWQwNjFkZjgyMzNjNGY3ZTI3IiwiZXhwIjoxNjE4MDcwNDE4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.8rRgl3YJcEAkPNuGe1OSc8wWYqsxtHfH6rmKqaWgaBI",
+    "toz": "وقتی کاربر بر روی دکمه کلیک کند به کانال مورد نظر شما میرود"
+  },
+  {
+    "aks": "زوم کردن در عکس با کلیک",
+    "code1": "//To set imageview zoom in in a project.\n\n  float x\u003dt1.getScaleX(), y\u003dt1.getScaleY(),yenix\u003dx+1,yeniy\u003dy+1; t1.setScaleX(yenix);t1.setScaleY(yeniy);",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "زوم روی عکس",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/9aeeadefd145353373f3de1b6c97fd3c31203553-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRmZDM0ZjI1YWU3ODkxZjYyZDc3NTA0ZDlhOGM3MTcyIiwiZXhwIjoxNjE4MDcwNTUzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.onvepDA_YcG5AtvhJlR3HT5ESyfgbswpFFlBsvgWK90",
+    "toz": "آموزش اینکه کاربر بتونه با انگشت روی عکس زوم کنه"
+  },
+  {
+    "aks": "تغییر سایز متن با سیک بار",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تغییر سایز متن",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/91c228e50bd7e732a7bd0d086cccff5031203575-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRlYTYwMTliMGFhMjE2YjhmNTUzOWVlYTQxN2IzZmE1IiwiZXhwIjoxNjE4MDcwNjQ0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.4a-R3vVBtI_D9usMfgHCB69UwlJig2sEljzWN4TjHrE",
+    "toz": "آموزش تغییر سایز متن با سیک بار"
+  },
+  {
+    "aks": "ساخت حالت شب و روز",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ساخت حالت شب و روز",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/38eff7e976db938e036aae14e4b3b3ff31203654-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjEzNzMxNGJmZDM3MzRkYjVhOWZhZjZlMzE0MDRhMjMwIiwiZXhwIjoxNjE4MDcwNzM4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lcbU6EJF8rHF48ryt7E48cIlsgEPnzQp2idYCJr8Vlc",
+    "toz": "ساخت حالت شب و روز برای برنامه"
+  },
+  {
+    "aks": "ساخت چراغ قوه",
+    "code1": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }",
+    "code2": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, false); } catch (android.hardware.camera2.CameraAccessException e) { }",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ساخت چراغ قوه",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/66d6117e1c1da2fca08f21c70b5b583331203683-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA3MmExMjA1ODlkOTcxZTMyN2FiZmE2MjFlNTA3Y2EyIiwiZXhwIjoxNjE4MDcwODc0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.JFF0Z0QQ2AUH0AEZygVYGgb8xlKa2NukHR1m4J9YNe4",
+    "toz": "آموزش ساخت برنامه چراغ قوه"
+  },
+  {
+    "aks": "ساخت صفحه متحرک عمودی",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "صفحه متحرک",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/147a587a44c1f22b75c5608e19a0611631203710-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImEyNDI0ZDU0YjE4NDBiNmI1YzFkYWQ1OTNhNzc5YmMwIiwiZXhwIjoxNjE4MDcwOTU0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SoxH2ZbvrSF0b4PfHSpBnJPQR8CbKgmcv1wEUrm4KII",
+    "toz": "صفحه ای که با انگشت بالا و پایین بره"
+  },
+  {
+    "aks": "کپی کننده متن",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "کپی کننده متن",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/1fa78146992e6805dac17e630e0b3b1631203727-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjExYmM3YThiYmYyYzM0MDFhZWE5Y2U3YTMwZWI3MWIxIiwiZXhwIjoxNjE4MDcxMDQxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.agdU1y8FW2S_9n_aQA4YUpk_Eef4AU4z997BQk7xzis",
+    "toz": "ساخت دکمه ای که اگر روش کلیک شد یک متن رو کپی کنه"
+  },
+  {
+    "aks": "ساخت دکمه به روز رسانی صفحه",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بروز رسانی صفحه",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/1f21ecd2635596cf289c3dc84fe83b3a31203753-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjhlYjhjYTc4ODQ1MjY5MjI5NjNkN2FhOTAzYjEwMThjIiwiZXhwIjoxNjE4MDcxMTE4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.cFFi1i3DNpDHX3IBO2nit5Ti9r7AG2xywAGVrqCWt04",
+    "toz": "دکمه ای که اگر روی اون کلیک شد صفحه رو به روز کنه"
+  },
+  {
+    "aks": "دکمه توقف موسیقی",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "توقف موسیقی",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/d2111e6bd6d90370862458a162cd3c7b31203792-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImZjODE3OTFlZTFiMTJlMmJiYTQ5NmYxNDIyMGVlYjA0IiwiZXhwIjoxNjE4MzQzOTUwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.ivSNC6dg9oHUdsD3VY-K9kSzD_yjQiu06HHOfmXoY-M",
+    "toz": "ساخت دکمه ای که با کلیک بر روی ان موزیک درحال پخش متوقف شود"
+  },
+  {
+    "aks": "ساخت دوربین",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ساخت دوربین",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/1ca1e60e3c89d3734db7c51a60f6682431203812-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjAwOTM2NWU2Y2VlYTUzMTAwZGFhYWVjNzVkMjdmNWZjIiwiZXhwIjoxNjE4MzQ0MDUyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.mCgemIfQ07ECPHanNbU0uYFXaF7Fu3EdgGP1ZS1eaiQ",
+    "toz": "ساخت برنامه دوربین"
+  },
+  {
+    "aks": "گرد کردن گوشه متن",
+    "code1": "android.graphics.drawable.GradientDrawable AA \u003d new android.graphics.drawable.GradientDrawable();\nAA.setColor(Color.parseColor(\"#رنگ\"));\nAA.setCornerRadii(new float[] { 50, 50, 50, 50, 50, 50, 50, 50 });\nنام تکست ویو.setBackground(AA);",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "گرد کردن تکست ویو",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/65e53b009e0880c56a9acba53be1c0eb31203837-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQwZjQ5ZDY0ZGM1NzdlODE1MzQ1MzM1ZmIzODZjMTk3IiwiZXhwIjoxNjE4MzQ0MTU2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.F2kve7miP9V7QWr-asuHu6jziftCVnu8zWk1eDHSdkE",
+    "toz": "آموزش گرد کردن گوشه های تکست ویو در برنامه"
+  },
+  {
+    "aks": "انتخاب عکس از گالری با کلیک",
+    "code1": "_filePath.get((int)(0))",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "انتخاب عکس",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/6761d88635823fc9d631b2bf7457fb4831203868-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM2YjZhYTFlZDg5NDYyYzJkMjdiM2YyMGIwZGMxOGUxIiwiZXhwIjoxNjE4MzQ0MjkxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SrEi8hyUmvq0MZSjHBt3emCPANdvs9TmFl9_ZA60Igk",
+    "toz": "ساخت دکمه ای که با کلیک روی اون کاربر بتونه یک عکس رو از گالری انتخاب کنه"
+  },
+  {
+    "aks": "ساخت بازی اسپینر",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بازی اسپینر",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/b8f7615e3a39ae69adc27ebef6ae06b931203893-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIwNTQ4MWNlMGU0MTRiNTNkNDRiMWE1MTg3NThkZmY3IiwiZXhwIjoxNjE4MzQ2ODYzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.37z60fh5d-yWboTHlhTz5Jluv9TeqxrCTYxag97nC28",
+    "toz": "آموزش ساخت بازی اسپینر ساده"
+  },
+  {
+    "aks": "انتخاب اجباری یک چک باکس",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "انتخاب چک باکس",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/67ef687e54eb37f9ab50a92c02065ddd31203929-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjcxZjZkNGZmZWFlYWNjNWJiZmI3ZDAyZWE2MzUwNzdkIiwiZXhwIjoxNjE4MzQ2OTQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.wv4jpWypYJflxwjbqKvljOUdXzQ4PdVZS9mZkWKDyDU",
+    "toz": "با این روش میتوانید کاری کنید که از بین چند چک باکس فقط امکان انتخاب یک گزینه وجود داشته باشد"
+  },
+  {
+    "aks": "خطای خالی بودن ادیت تکست",
+    "code1": "نام ادیت تکست.setError(\"\");",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "خطای ادیت تکست",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/740ff5a2eef4512d5e068f826ce3321c31203951-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM1NzEzYmVlNWMxMDY2ZTdlM2Y5MDlhZWRjOGUwYTkxIiwiZXhwIjoxNjE4MzQ3MDk0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9._lQHLJnJMrWGTlXDUHy8aP1SgiaAhF2i1pbL21YEcIE",
+    "toz": "اموزش اینکه اگر ادیت تکست خالی بود کاربر یک ارور دریافت کنه"
+  },
+  {
+    "aks": "نمایش درصد باطری",
+    "code1": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "نمایش درصد باطری",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/be8c10bbf3071a9caa5b384c7c35aeee31203979-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc3MzMzOTExZDU4MmNmMmRjYWRiNWFhMWQyMmE3YzE1IiwiZXhwIjoxNjE4MzQ3MTk5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.dLKX8Y_ZLHAKrmY91yJz8SKX20fTXL8W6LLN-PDdQn8",
+    "toz": "ساخت برنامه ای که با ان بتوان درصد باطری را نمایش داد"
+  },
+  {
+    "aks": "ساخت تلفن",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ساخت تلفن",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/73a9ec56895c9d5f1840c01abdf8b95031204004-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJmNmM3YTAwZThhYWQwMzc4Zjc2ZWQ5OWZiNzM5NjdiIiwiZXhwIjoxNjE4MzQ3MzE4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.l32lm-Z8oqxI3FbZB2Hbx42PXkb-EjnVgqY9tJ524RQ",
+    "toz": "برنامه ای که با ان بتوانید با دیگران تماس بگیرید"
+  },
+  {
+    "aks": "گرافیک باتون",
+    "code1": "android.graphics.drawable.GradientDrawable AD \u003d new android.graphics.drawable.GradientDrawable();\nAD.setColor(Color.parseColor(\"#2196F3\"));\nAD.setCornerRadii(new float[] { 50, 50, 50, 50, 50, 50, 50, 50 });\nAD.setStroke(10, Color.parseColor(\"#F44336\"));\nandroid.graphics.drawable.RippleDrawable AD_RE \u003d new android.graphics.drawable.RippleDrawable(new android.content.res.ColorStateList(new int[][]{new int[]{}}, new int[]{ Color.parseColor(\"#FFFFFF\")}), AD, null);\nbutton1.setBackground(AD_RE);\nif(Build.VERSION.SDK_INT \u003e\u003d 50) { button1.setElevation(7f); }",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "گرد کردن",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/90432efd442d7d993c8892d73c4f678031204017-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRkYWRkNjI2MDEwM2U4ZjkzMmM5OGI1MWZmZmRmZmE0IiwiZXhwIjoxNjE4MzQ3NDMzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.vdyHu9Wfgf-E4SGr66rs2dy0G6Q8abZSoqH5apMSbfI",
+    "toz": "آموزش گرد کردن گوشه باتون + گذاشتن رنگ حاشیه برای باتون"
+  },
+  {
+    "aks": "چرخش دکمه با کلیک",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "چرخش دکمه",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/4a34aa78e25c8f25407d4450da3cdee331204060-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc4NTM3NWFmYTcwZTQ2ZjgxMzNiYzg4NjkyOTIwNWQzIiwiZXhwIjoxNjE4MzQ3NTUwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.PvV9p55zfx8k1N5h-KypJoSZ4slbxM0iBJDYrWQB1p8",
+    "toz": "اگر کاربر بر روی دکمه مورد نظر کلیک کنه دکمه میچرخه"
+  },
+  {
+    "aks": "دستور دادن به منوی کشویی بقل",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "منوی کناری ۲",
+    "namayesh": "https://aspb24.cdn.asset.aparat.com/aparat-video/e57d3738a1d3dda23ea698dd3736e3c931204083-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQ2OTVkN2Q0YWJjOGVjYTBmOTc1ZGVhNTBmNjdiYjA4IiwiZXhwIjoxNjE4MzQ3NjU0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9._Z9XUw_jQoBDlLbGtpvAlsaYabXhEpRTdltHRmue7Yg",
+    "toz": "اموزش ساخت منوی کناری + دستور دادن به ان"
+  },
+  {
+    "aks": "ساخت آمار بازدید برنامه",
+    "code1": "data:text/html, \u003c!-- Statistics by www.1abzar.com ---\u003e \u003cscript type\u003d\"text/javascript\" src\u003d\"http://1abzar.ir/abzar/tools/stat/amar-v3.php?color\u003d333333\u0026bg\u003dF7F4D9\u0026kc\u003d212121\u0026kadr\u003d4\u0026amar\u003d92t3djco64r3hsjjqmllvayv06wi0n\u0026show\u003d1|1|1|1|0|0|1\"\u003e\u003c/script\u003e\u003cdiv style\u003d\"display:none\"\u003e\u003ch3\u003e\u003ca href\u003d\"http://www.1abzar.com/abzar/stat.php\"\u003e\u0026#1570;\u0026#1605;\u0026#1575;\u0026#1585;\u0026#1711;\u0026#1740;\u0026#1585; \u0026#1608;\u0026#1576;\u0026#1604;\u0026#1575;\u0026#1711;\u003c/a\u003e\u003c/h3\u003e\u003c/div\u003e \u003c!-- Statistics by www.1abzar.com ---\u003e",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آمار بازدید",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/22bea6dcdc0b6aa15b3d519288f4d69231204113-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM3MmIyNjM5YWI4MDBhZTM2NThhMWM1MDk2MzAzNmNkIiwiZXhwIjoxNjE4MzQ3NzQwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.qh9K48bPIEa8UJlfb8WzEX3eeInfRErux7aJXAA422w",
+    "toz": "آموزش ساخت امار بازدید برای برنامتون"
+  },
+  {
+    "aks": "خروج دوبل",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "برگشت دوبل",
+    "namayesh": "https://aspb26.cdn.asset.aparat.com/aparat-video/1883eb4efbfb612e4bb3fa7fd01d6ac431204136-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFjMzEzYzFlY2M3YzQ2ZDdlNGJkMWZiNDQ3N2I3NWNkIiwiZXhwIjoxNjE4MzQ4MDM1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.4mFRZSKn8sP3cVYqQ9ceC7Is0F0EayKWcxqyoMO3L8w",
+    "toz": "برای اینکه از یک صفحه به عقب برگرده باید ۲ بار دکمه برگشت رو بزنه"
+  },
+  {
+    "aks": "تنظیم سایه",
+    "code1": "android.graphics.drawable.GradientDrawable gd \u003d new android.graphics.drawable.GradientDrawable();\ngd.setColor(Color.parseColor(\"#FFFFFF\"));\ntextview1.setBackground(gd);\n\nif (Build.VERSION.SDK_INT \u003e\u003d 21){\ntextview1.setElevation((int)30);}",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "سایه",
+    "namayesh": "https://aspb26.cdn.asset.aparat.com/aparat-video/9ca550e57833545e38c47e20f039e76e31204164-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRlMDJlMzZjNDM2YWY0Yzg4YmU5ODU1YTFkYzYzNTAyIiwiZXhwIjoxNjE4MzQ3OTEwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.pnsuteEk3InTufB-M24lPX0xm7a9SYJEHgBmo9XBz74",
+    "toz": "آموزش گذاشتن سایه برای ویدجیت ها"
+  },
+  {
+    "aks": "ظاهر شدن لاینر به صورت انیمیشن",
+    "code1": "Animation animation;animation \u003d AnimationUtils.loadAnimation(\ngetApplicationContext(),android.R.anim.slide_in_left);animation.setDuration(200);linear1.startAnimation(animation); animation \u003d null;",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "سایه",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/ed1b07542c5a0132db1539cbd44948dd31204205-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjcxYThmNjcwN2ZhODdjMzQ0YTMzMzIxODlmOGEwZjIyIiwiZXhwIjoxNjE5MTMyNjQzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.0YDCV5heVb_mnZXVokp2n3OyPSkZucplsgT2CxXkbLA",
+    "toz": "نمایش انیمیشنی لاینر ها"
+  },
+  {
+    "aks": "محدودیت برای ادیت تکست",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "محدودیت",
+    "namayesh": "https://aspb26.cdn.asset.aparat.com/aparat-video/b8ace1510c757e9a1841a9d50c0d6a3831204232-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQzMTMwZjY2ZGRmYTEyM2YyMDdhNjA1ODg3NmQxMzI2IiwiZXhwIjoxNjE5MTMyNzE3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.P-ADfrSHgyQr_ClKnRAII8RfgCitz9mvr-agUWz2ad4",
+    "toz": "گذاشتن محدودیت برای ادیت تکست در وارد کردن اجزا"
+  },
+  {
+    "aks": "ساخت پیغام دارای عکس",
+    "code1": "LayoutInflater inflater \u003d getLayoutInflater(); View toastLayout \u003d inflater.inflate(R.layout.tostt, null);\n\nTextView textview1 \u003d (TextView) toastLayout.findViewById(R.id.textview1);\ntextview1.setText(\"متن\");\nLinearLayout linear1 \u003d (LinearLayout) toastLayout.findViewById(R.id.linear1);\n\nToast toast \u003d new Toast(getApplicationContext()); toast.setDuration(Toast.LENGTH_LONG);\ntoast.setView(toastLayout);\ntoast.show();\n\n android.graphics.drawable.GradientDrawable HEIFBEG \u003d new android.graphics.drawable.GradientDrawable();\nHEIFBEG.setColor(Color.parseColor(\"#FFC107\"));\nHEIFBEG.setCornerRadius((int)30);\nHEIFBEG.setStroke(5, Color.parseColor(\"#212121\"));\nlinear1.setBackground(HEIFBEG);\n\n//made by FABIÁN MODS LTDA.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "پیغام",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/4ce04e3152a05a523c1663c3ad073f3e31204251-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc2ZDE3OWM5ODA0NzkyMmI1YmE0ZGNjMzM1NDZiYTg3IiwiZXhwIjoxNjE5MTMyNzk4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.nOAwMu4d0vCvXm4AoZ-WeySwwKlXwdW_gC7D6peK7n8",
+    "toz": "ساخت پیغام دارای عکس"
+  },
+  {
+    "aks": "ساخت دفتر نقاشی\nقسمت ۱",
+    "code1": "dv \u003d new DrawingView(this);\nlinear1.addView(dv);\nmPaint \u003d new Paint();\nmPaint.setAntiAlias(true);\nmPaint.setDither(true);\nmPaint.setColor(Color.BLACK); \nmPaint.setStyle(Paint.Style.STROKE); \nmPaint.setStrokeJoin(Paint.Join.ROUND); \nmPaint.setStrokeCap(Paint.Cap.ROUND); \nmPaint.setStrokeWidth(12);\n}\nDrawingView dv; private Paint mPaint;\nprivate Canvas mCanvas;\n\npublic class DrawingView extends View {\npublic int width;\npublic int height;\nprivate Bitmap mBitmap;\nprivate Path mPath;\nprivate Paint mBitmapPaint;\nContext context; private Paint circlePaint; private Path circlePath;\n\npublic DrawingView(Context c) {\nsuper(c);\ncontext\u003dc;\nmPath \u003d new Path();\nmBitmapPaint \u003d new Paint(Paint.DITHER_FLAG); \ncirclePaint \u003d new Paint();\ncirclePath \u003d new Path();\ncirclePaint.setAntiAlias(true);\ncirclePaint.setColor(Color.BLUE); \ncirclePaint.setStyle(Paint.Style.STROKE); \ncirclePaint.setStrokeJoin(Paint.Join.MITER); \ncirclePaint.setStrokeWidth(4f);\n}\n\n@Override protected void onSizeChanged(int w, int h, int oldw, int oldh) { super.onSizeChanged(w, h, oldw, oldh); mBitmap \u003d Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888); mCanvas \u003d new Canvas(mBitmap); }\n\n@Override protected void onDraw(Canvas canvas) { super.onDraw(canvas); canvas.drawBitmap( mBitmap, 0, 0, mBitmapPaint);\ncanvas.drawPath( mPath, mPaint); canvas.drawPath( circlePath, circlePaint);\ninvalidate(); }\n\nprivate float mX, mY;\nprivate static final float TOUCH_TOLERANCE \u003d 4;\nprivate void touch_start(float x, float y) { mPath.reset(); mPath.moveTo(x, y); mX \u003d x; mY \u003d y; }\n\nprivate void touch_move(float x, float y) { float dx \u003d Math.abs(x - mX); float dy \u003d Math.abs(y - mY); if (dx \u003e\u003d TOUCH_TOLERANCE || dy \u003e\u003d TOUCH_TOLERANCE) { mPath.quadTo(mX, mY, (x + mX)/2, (y + mY)/2); mX \u003d x; mY \u003d y; circlePath.reset(); circlePath.addCircle(mX, mY, 30, Path.Direction.CW); } }\nprivate void touch_up() { mPath.lineTo(mX, mY); circlePath.reset();\nmCanvas.drawPath(mPath, mPaint);\nmPath.reset(); }\n\n@Override public boolean onTouchEvent(MotionEvent event) {\nfloat x \u003d event.getX(); float y \u003d event.getY();\nswitch (event.getAction()) {\ncase MotionEvent.ACTION_DOWN: touch_start(x, y); invalidate(); break;\ncase MotionEvent.ACTION_MOVE: touch_move(x, y); invalidate(); break;\ncase MotionEvent.ACTION_UP: touch_up(); invalidate(); break; } return true; }",
+    "code2": "mCanvas.drawColor(Color.TRANSPARENT, PorterDuff.Mode.CLEAR);",
+    "code3": "کدی وجود ندارد.",
+    "matn": "دفتر نقاشی قسمت ۱",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/61c792445b174d570eebf04204a601fd31204293-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU3NzhmZjI4MGNmMjY4OGJmMGUxYTE2YjhjN2MyNTQ4IiwiZXhwIjoxNjE5MTMyOTUwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.PslMXFkUYS-VRiHiCES8yurJetQQI_pok4ElbxWYmH0",
+    "toz": "آموزش ساخت دفتر نقاشی ساده و زیبا"
+  },
+  {
+    "aks": "ساخت دفتر نقاشی \nقسمت ۲",
+    "code1": "mPaint.setColor(Color.parseColor(\"#F44336\"));",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "دفتر نقاشی قسمت ۲",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/1b2858b93b98e706131fcb32046928ab31204333-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg1ZjM0OTUwZWM4MWU2YzE4NjY1YjAyZGY5ZWFkZTgyIiwiZXhwIjoxNjE5MTMzMjE2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.4CIJJDJF4Fe0tiVuNFOXR7ScUyQxL76F8iGY5HTqvGA",
+    "toz": "ساخت دفتر نقاشی ساده و زیبا"
+  },
+  {
+    "aks": "پخش موسیقی از جایی که متوقف شده بود",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "پخش موسیقی",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/412c378c79074ab3ed1162e90e82819031204383-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRmNTUxOGYyNTAzOWQxZWVkNWVhNTE5ODRiODU3MThiIiwiZXhwIjoxNjE5MTMzMjk2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FYCPvqB7PCw0ALmbkoP_RmerT7hvgkxsJEchtKblLE0",
+    "toz": "ادامه موسیقی از جایی که متوقف شده است"
+  },
+  {
+    "aks": "ساخت برنامه قرعه کشی",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "قرعه کشی",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/76c98db69475417fce7afa96993f40a631204411-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImE4MThhMmQ0MmI1ZDE0MWM5MmJhYzNmY2FkZTAzNzYyIiwiZXhwIjoxNjE5MTMzMzk5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.l0cuRxWs6gqr7zPYLtoZowsr14uyyPttP7u71Fx60d0",
+    "toz": "ساخت یک برنامه قرعه کشی به صورت ساده"
+  },
+  {
+    "aks": "ساخت ماشین حساب ساده",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ماشین حساب",
+    "namayesh": "https://aspb25.cdn.asset.aparat.com/aparat-video/ab075c3b58cff86c36fef3ce9368355c31204440-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVmNmNjMTMyZTg5YjRiOTljMjU3NjhkMjQxMmY0ZjFiIiwiZXhwIjoxNjE5MTMzNDcwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jRFpuLpKfWvUfJfFrssGOTeT157sT0gS-OvQlo-5Psk",
+    "toz": "آموزش ساخت بک ماشین حساب ساده"
+  },
+  {
+    "aks": "ساخت دیالوگ سیاه",
+    "code1": "setTheme(android.R.style.Theme_Material);",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "دیالوگ مشکی",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/684119e0fa7dd568eb26c41df5b35c4031204471-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIyMmQ5YmUzZGI0ZmQxNTYzNWRkYjIxZmZhOWZkOGYzIiwiZXhwIjoxNjE5MTMzNTMxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Q4TnwXh-QWyOMhugrTRTp2v0dEzHimKtqo27HOM5ITc",
+    "toz": "آموزش ساخت دیالوگ با تم مشکی"
+  },
+  {
+    "aks": "روشن شدن بلوتوث با کلیک",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تنظیمات سیستمی",
+    "namayesh": "https://aspb25.cdn.asset.aparat.com/aparat-video/843c7bbaf75ff1fa734ee39fc8058af731204496-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ5Mjc3NDkyMmE3ODFlMzA3YWQ3NDRiZTRiNjA1MWEzIiwiZXhwIjoxNjE5MTMzNTk4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Xl4z9JT6_JWh0aQIKNM3b5QIhd0al7NTYZOiUq9jthY",
+    "toz": "با کلیک کردن بلوتوث دستگاه خاموش و روشن شود"
+  },
+  {
+    "aks": "ساخت دفترچه یادداشت ساده با قابلیت ذخیره",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "دفترچه یادداشت",
+    "namayesh": "https://aspb24.cdn.asset.aparat.com/aparat-video/9e75850aebbd0f0bec45921ba845c8bd31204519-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUxOTc5ODdlNjE2ZWI3NmMxYTI4YWYzOTM0MTExMzFiIiwiZXhwIjoxNjE5MTM0MzE1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Df_jloJTiXXbOg8x_66SnvDzBgiQnzsvDM2RMyN1Cp0",
+    "toz": "آموزش ساخت دفترچه یادداشت ساده با قابلیت ذخیره متن"
+  },
+  {
+    "aks": "ساخت دیالوگ فانتزی",
+    "code1": "final AlertDialog success_dialog \u003d new AlertDialog.Builder(MainActivity.this).create();\nLayoutInflater inflater \u003d getLayoutInflater();\n\nView convertView \u003d (View) inflater.inflate(R.layout.success_dialog, null);\nsuccess_dialog.setView(convertView);\n\nsuccess_dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);  success_dialog.getWindow().setBackgroundDrawable(new android.graphics.drawable.ColorDrawable(Color.TRANSPARENT));\n\nLinearLayout s_bg \u003d (LinearLayout) convertView.findViewById(R.id.av1);\n\nLinearLayout s_div \u003d (LinearLayout) convertView.findViewById(R.id.av8);\n\nButton s_ok \u003d (Button) convertView.findViewById(R.id.av5);\n\nButton s_cancel \u003d (Button) convertView.findViewById(R.id.av4);\n\nImageView s_header \u003d (ImageView) convertView.findViewById(R.id.av6);\n\nTextView s_title \u003d (TextView) convertView.findViewById(R.id.av2);\n\nTextView s_msg \u003d (TextView) convertView.findViewById(R.id.av3);\ns_header.setElevation(5);\ns_ok.setOnClickListener(new View.OnClickListener(){\n    public void onClick(View v){\nsuccess_dialog.dismiss();\n}});\ns_cancel.setOnClickListener(new View.OnClickListener(){\n    public void onClick(View v){\nsuccess_dialog.dismiss();\n}});\nsuccess_dialog.show();\n_bounce(s_header);",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "دیالوگ فانتزی",
+    "namayesh": "https://aspb24.cdn.asset.aparat.com/aparat-video/6308901eef05dc67923a3d3408d0846331204541-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNkMmIzYTE4ZjA4NTkxMWQ5ZTAzNzMxZTkwNzllMTdjIiwiZXhwIjoxNjE5NjgxNzMzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.7WFXk_oVXffeILZqfsXRWyb9NxZLeAAo1J4SwyhHwxc",
+    "toz": "آموزش ساخت دیالوگ فانتزی و زیبا"
+  },
+  {
+    "aks": "ارسال اعلان",
+    "code1": "/*\nDeveloper :- Aauraparti YouTube channel\nPowered by :- Gopal\n*/\n\nfinal Context context \u003d getApplicationContext();\n\n\nNotificationManager notificationManager \u003d (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);\n\nIntent intent \u003d new Intent(this, MainActivity.class); \nintent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP); \nPendingIntent pendingIntent \u003d PendingIntent.getActivity(this, 0, intent, 0); \nandroidx.core.app.NotificationCompat.Builder builder; \n\n    int notificationId \u003d 1;\n    String channelId \u003d \"channel-01\";\n    String channelName \u003d \"Channel Name\";\n    int importance \u003d NotificationManager.IMPORTANCE_HIGH;\n\n    if (android.os.Build.VERSION.SDK_INT \u003e\u003d android.os.Build.VERSION_CODES.O) {\n        NotificationChannel mChannel \u003d new NotificationChannel(\n                channelId, channelName, importance);\n        notificationManager.createNotificationChannel(mChannel);\n    }\n\n  \n androidx.core.app.NotificationCompat.Builder mBuilder \u003d new androidx.core.app.NotificationCompat.Builder(context, channelId)\n            .setSmallIcon(R.drawable.icon)\n            .setContentTitle(_av1)\n            .setContentText(_av2)\n            .setAutoCancel(true)\n            .setOngoing(false)\n            .setContentIntent(pendingIntent);\n    TaskStackBuilder stackBuilder \u003d TaskStackBuilder.create(context);\n    stackBuilder.addNextIntent(intent);\n    PendingIntent resultPendingIntent \u003d stackBuilder.getPendingIntent(\n            0,\n            PendingIntent.FLAG_UPDATE_CURRENT\n    );\n    mBuilder.setContentIntent(resultPendingIntent);\n\n    notificationManager.notify(notificationId, mBuilder.build());",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "اعلان",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/fbfa73d82dd1a298d537652f83fab26b31204578-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjViOGFlZDlhYTFhYjM1NjIzNjE3Njc1MjYwMDMyOGQ4IiwiZXhwIjoxNjE5NjgxNzc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SN5jNo8Q-HLxL9T0_u1cFL33vhAhRhyRWuwRHJDsHJM",
+    "toz": "آموزش ارسال اعلان"
+  },
+  {
+    "aks": "گذاشتن فیلم در برنامه با قابلیت کنترل",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "گذاشتن فیلم در برنامه",
+    "namayesh": "https://aspb23.cdn.asset.aparat.com/aparat-video/a5ab4fbbe5e0cb3a8f7f9733e157c4be31204613-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJkOGMzNmUzYzI1OWE4OGJjYTIwNmM5ZDhjZjYwYjQ5IiwiZXhwIjoxNjE5NjgxODA5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.R-O53Vg3DH9oYbqW_VLt7Hy6TJzXWQbw9Ki-W21ihSY",
+    "toz": "گذاشتن و اجرای فیلم در برنامه با قابلیت کنترل آن"
+  },
+  {
+    "aks": "کشیدن صفحه به پایین \u003d پیغام",
+    "code1": "final androidx.swiperefreshlayout.widget.SwipeRefreshLayout strf \u003d new androidx.swiperefreshlayout.widget.SwipeRefreshLayout(this);\nstrf.setLayoutParams(new LinearLayout.LayoutParams(android.widget.LinearLayout.LayoutParams.MATCH_PARENT, android.widget.LinearLayout.LayoutParams.MATCH_PARENT));\n\n((LinearLayout) linear1).addView(strf);\n\n((LinearLayout) linear1).removeView(linear2);\n\nstrf.addView(linear2);\n\nstrf.setOnRefreshListener(new androidx.swiperefreshlayout.widget.SwipeRefreshLayout.OnRefreshListener() {\n@Override\npublic void onRefresh() {",
+    "code2": "strf.setRefreshing(false); }});",
+    "code3": "کدی وجود ندارد.",
+    "matn": "به روز رسانی صفحه",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/397e0dbe60f12ff29a2643b06ead567b31204650-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRjOGRjYjUwN2ZiNjc1ZmJiMjNjM2E4M2NiOGE3YzQ0IiwiZXhwIjoxNjE5NjgxODg2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.99D7imm0O1-buZl2v_5VONSN_gxYXbpqXvQQxlNnGHQ",
+    "toz": "با کشیدن به پایین صفحه تازه سازی میشود و یک پیغام نیز نمایش میدهد."
+  },
+  {
+    "aks": "بازکردن آیدی مورد نظر\n(به عنوان مثال در روبیکا)",
+    "code1": "Intent jjjjjjjjjjjhhhggfff \u003d new Intent();\njjjjjjjjjjjhhhggfff.setAction(Intent.ACTION_VIEW);\n jjjjjjjjjjjhhhggfff.setData(Uri.parse(\"rubika://l.rubika.ir/\".concat(_av))); startActivity(jjjjjjjjjjjhhhggfff);",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "رفتن به صفحه شخصی در روبیکا",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/cb5c0be049999c62145e154d07808c2531204694-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY3MzQwMDUxMmYyNjQ2MDlmYjYzN2NiMDc1MWUxMTg0IiwiZXhwIjoxNjE5NzkzMDIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Xc-Pda3mm6_gX88FCKjVTgNTpJ6Mxh40IkfAT9UwZxI",
+    "toz": "با این آموزش میتوانید با کلیک بر روی دکمه به ایدی مورد نظر خود بروید"
+  },
+  {
+    "aks": "ساخت اسلایدر تصویر",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "اسلاید",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/0136f3f889a51ea44db800a1dd00fdc531204716-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjMwNDhkMDQwNDZiYjRhZjg3YzQzMGRhZjczZjk2NzYxIiwiZXhwIjoxNjE5NzkzMDY0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.wR8XoD1MEhQ-2Vc7wGdK9nPrNxZN7h_rk8kFsGsV9tY",
+    "toz": "ساخت صفحه اسلاید که بعد از گذشتن زمان مشخص عوض بشه"
+  },
+  {
+    "aks": "ساخت بازی هواپیما",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بازی هواپیما",
+    "namayesh": "https://aspb25.cdn.asset.aparat.com/aparat-video/5675e962cca5ff614d4f1008fadc277731204759-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNiNDNlMzRmNTNkMDgzY2VlOGZlNTVhM2NhMDBmNDY0IiwiZXhwIjoxNjE5NzkzMDk2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Q8nZkXCY5SPGgb_lfSKKF5FGSqHEwF-rjCuO0Hk7QOo",
+    "toz": "آموزش ساخت بازی هواپیما"
+  },
+  {
+    "aks": "ساخت چراغ قوه چشمک زن",
+    "code1": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }",
+    "code2": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, false); } catch (android.hardware.camera2.CameraAccessException e) { }",
+    "code3": "کدی وجود ندارد.",
+    "matn": "چراغ قوه",
+    "namayesh": "https://aspb26.cdn.asset.aparat.com/aparat-video/983b0e5c85cf57b3c4716740ce9eb96231204783-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJkNWU4ZmYyZjIwYjUwMWY0ZWE2MTE0NjU5OGUwNjE5IiwiZXhwIjoxNjE5NzkzMTI1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.AzXXtTp6k7t1bgAJ-zo3H3ozBR5JwR4RXaQNqWBpFHU",
+    "toz": "آموزش ساخت چراغ قوه چشمک زن"
+  },
+  {
+    "aks": "ساخت منوی زیرین",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "منوی زیر",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/f718865ee7bdc365ae108b7f3c7c87b631204802-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA1MGUzZWI3MDYyZmY5NjUyMWJjNTA5OTA2ZTRlMGE5IiwiZXhwIjoxNjE5NzkzMTUxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YjwcL5-qv6C3scHQDv1UpjL3pYgpkpfWv4_hCJ7m_O0",
+    "toz": "آموزش ساخت منوی زیرین"
+  },
+  {
+    "aks": "گذاشتن گیف در برنامه",
+    "code1": "\"file:///android_asset/نام گیف\"",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "گیف",
+    "namayesh": "https://aspb24.cdn.asset.aparat.com/aparat-video/bbb877a5cf22e8c5c6bc8eb746c8dcb331204849-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIzODBiZmEwMjM0OTQyYjNjMGEzNDBhZWU1YTZlYTAwIiwiZXhwIjoxNjE5NzkzMTc4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.40BRmjEndO2zJpWvQixeO7rVA05a3NcQ0YPQtGq8HqY",
+    "toz": "اموزش گذاشتن گیف در برنامه"
+  },
+  {
+    "aks": "ساخت پیانو ساده",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "پیانو",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/34694c079b778640b861b36123daac7431204865-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjE1NmNiMzcxNDliMGJhZTQ2MGVhN2M4Y2E0NWY3ZDk4IiwiZXhwIjoxNjE5NzkzMjAzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hvNZ0Buv6TmBVQqJtPwLn_WSFsAu8WAKt9n_z8uGynQ",
+    "toz": "آموزش ساخت یک پیانو ساده و جالب"
+  },
+  {
+    "aks": "بررسی اتصال اینترنت",
+    "code1": "https://google.com",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "چک کردن اتصال",
+    "namayesh": "https://aspb25.cdn.asset.aparat.com/aparat-video/6bf6c5256c3928d6f3924337a997420931204888-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijk2YTg2NjY4MDgwZTc3YmMxOTdiNzk2NjdlM2Y1MjFkIiwiZXhwIjoxNjE5NzkzMjMxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.4GRiMPBBHtya6_q79Ajoi6Shpi-IXmYK-VJj5FtoJOk",
+    "toz": "چک کردن اتصال کاربر به اینترنت"
+  },
+  {
+    "aks": "زوم روی تصویر با کلیک",
+    "code1": "_av1.setTransitionName(_av2);\n\nandroid.app.ActivityOptions optionsCompat \u003d android.app.ActivityOptions.makeSceneTransitionAnimation(MainActivity.this, _av1, _av2);\n        startActivity(_av3, optionsCompat.toBundle());",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بزرگنمایی تصویر",
+    "namayesh": "https://aspb25.cdn.asset.aparat.com/aparat-video/dabd7f0258e3b98d7f764263ed372a7f31204908-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIxNjRlODAyN2IwNWU4NGUwZTNjMGE4OTE0ZjRlMzYxIiwiZXhwIjoxNjE5NzkzMjU1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.NcQKDSdYZ1Wy8ceJHf9K5uetn53eWlt_URlNHq6Fl2g",
+    "toz": "با کلیک بر روی تصویر ، تصویر زوم میشود"
+  },
+  {
+    "aks": "ارسال کد تایید آفلاین",
+    "code1": "/*\nDeveloper :- Aauraparti YouTube channel\nPowered by :- Gopal\n*/\n\nfinal Context context \u003d getApplicationContext();\n\n\nNotificationManager notificationManager \u003d (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);\n\nIntent intent \u003d new Intent(this, MainActivity.class); \nintent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP); \nPendingIntent pendingIntent \u003d PendingIntent.getActivity(this, 0, intent, 0); \nandroidx.core.app.NotificationCompat.Builder builder; \n\n    int notificationId \u003d 1;\n    String channelId \u003d \"channel-01\";\n    String channelName \u003d \"Channel Name\";\n    int importance \u003d NotificationManager.IMPORTANCE_HIGH;\n\n    if (android.os.Build.VERSION.SDK_INT \u003e\u003d android.os.Build.VERSION_CODES.O) {\n        NotificationChannel mChannel \u003d new NotificationChannel(\n                channelId, channelName, importance);\n        notificationManager.createNotificationChannel(mChannel);\n    }\n\n  \n androidx.core.app.NotificationCompat.Builder mBuilder \u003d new androidx.core.app.NotificationCompat.Builder(context, channelId)\n            .setSmallIcon(R.drawable.icon)\n            .setContentTitle(_av1)\n            .setContentText(_av2)\n            .setAutoCancel(true)\n            .setOngoing(false)\n            .setContentIntent(pendingIntent);\n    TaskStackBuilder stackBuilder \u003d TaskStackBuilder.create(context);\n    stackBuilder.addNextIntent(intent);\n    PendingIntent resultPendingIntent \u003d stackBuilder.getPendingIntent(\n            0,\n            PendingIntent.FLAG_UPDATE_CURRENT\n    );\n    mBuilder.setContentIntent(resultPendingIntent);\n\n    notificationManager.notify(notificationId, mBuilder.build());",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "کد تایید",
+    "namayesh": "https://aspb26.cdn.asset.aparat.com/aparat-video/8f4bf054b8473a106eff3eafb15d1eff31204932-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRiNDhjNjc2OWRmNDRkOTg2NDA5YWUxYjE2MmY1YjEwIiwiZXhwIjoxNjE5NzkzMzAwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.YsiGvvWPBnxd0tx4WGiRjRr--aqneORBCejWbhP9SYI",
+    "toz": "ارسال کد تایید به کاربر به صورت آفلاین"
+  },
+  {
+    "aks": "دیالوگ لودینگ",
+    "code1": "ProgressDialog pd \u003d new android.app.ProgressDialog(MainActivity.this);\n\n\t\tpd.setMessage(\"در حال بارگیری\");\n\n\t\tandroid.graphics.drawable.GradientDrawable gd \u003d new android.graphics.drawable.GradientDrawable();\n\n\t\tgd.setColor(android.graphics.Color.parseColor(\"#ffeb3b\"));\n\t\tgd.setCornerRadius(25);\n\t\tgd.setStroke(4,android.graphics.Color.parseColor(\"#000000\"));\n\t\tpd.setButton(\"لغو\", new DialogInterface.OnClickListener(){\n\n\t\t\t\t@Override\n\t\t\t\tpublic void onClick(DialogInterface p1, int p2)\n\t\t\t\t{\n\t\t\t\t\t// TODO: Implement this method\n\t\t\t\t}\n\t\t\t});\n\n\t\tpd.setCancelable(false);\n\n\t\tpd.getWindow().setBackgroundDrawable(new android.graphics.drawable.InsetDrawable(gd,25));\n\t\tpd.show();",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "لودینگ",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/67a62211dd5820463cd1fc52aef86bf831204989-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjI1OWJiYjA5ZWMyNzI1MWU2NWM3YTFiMDg4N2QyNjRlIiwiZXhwIjoxNjIwMTE0MDE0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SokKabF3Ff-fOAjfs1F1Aox3S-BbW5G5D-f1eCGeabc",
+    "toz": "ساخت دیالوگ لودینگ با حاشیه رنگی"
+  },
+  {
+    "aks": "باز کردن تنظیمات",
+    "code1": "//by ezzex (check author)\n//works on API 1 or high\nIntent open_settings \u003d new Intent(android.provider.Settings.ACTION_SETTINGS);\nstartActivity(open_settings);",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تنظیمات",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/a2cd2ea00e9c1f7b83eb2c0e8b10bd6a31205006-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjEzNDAzODk4YzZjODNkZWE3NDhhOGNiN2RjNmZlOTlmIiwiZXhwIjoxNjIwMTE0MDc1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.aueKZamJl3DFugV4fZzaJ-3Vhkf8T9rp9JsD55UbG1g",
+    "toz": "بازکردن تنظیمات برنامه با کلیک بر روی دکمه"
+  },
+  {
+    "aks": "پوشه شخصی",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ایجاد فایل",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/82d6a88631a43a97939f876fb5e0bc9231205041-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc3MWU5ZTBkNDI5N2MxOTk5NTMyMDNlNTIyM2FjYzExIiwiZXhwIjoxNjIwMTE0MTE3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.CGxbXyFdcKxwFTX4wvMhjSK_IMkYpALfUBorME15nVk",
+    "toz": "ایجاد پوشه در فایل های شخصی"
+  },
+  {
+    "aks": "منوی اسپینر",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "منو",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/67da8254aa71959165b056c90b94247a31205065-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI0MzYzNDRkMGVhYTYyMTc4Yzc5ZDBlMWU0MTQwMjY1IiwiZXhwIjoxNjIwMTE0MTY4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.goP9NDlg4q89ZLvGcNnv-B_e1_Kn7X6Ogd0grZajVPs",
+    "toz": "ساخت منوی اسپینر برای برنامه"
+  },
+  {
+    "aks": "تعیین رمز پیشرفته",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "رمز برای برنامه",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/150199d68dfbce548f92021d51a8ce9131205091-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQxOGVmNjM0YjhmNGZkYmE3ZWYxZjhlNTRiMWE0M2JhIiwiZXhwIjoxNjIwMTE0MjAxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.udpR040E6WsznsNJ8IiWSKTbFQuRUnFijgT0kDtDnQs",
+    "toz": "گذاشتن رمز ورود برای برنامه با قابلیت فعال و غیرفعال کردن"
+  },
+  {
+    "aks": "نمایش فیلم",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "پخش فیلم",
+    "namayesh": "https://aspb26.cdn.asset.aparat.com/aparat-video/97d1b06209aed2d20118a6a05a4060ea31205119-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM3ZTM1NDc0NGExMTI0MTZhNDQ5OTllNzY3MWI1YzgwIiwiZXhwIjoxNjIwMTE0MjQxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.SW7QEoxm9YdBV9Nr1eI9FmdgOiXUs6OsKpV6sl1On90",
+    "toz": "نمایش فیلم به صورت آنلاین در برنامه"
+  },
+  {
+    "aks": "ساخت SMS",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ارسال پیام",
+    "namayesh": "https://aspb26.cdn.asset.aparat.com/aparat-video/44757b52cf0a18c1c203b4323f5897a431205139-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjkzNDcyYjcyNWJjODMwNzM1MmQ1NWY4ZTZmMjRkMDRkIiwiZXhwIjoxNjIwMTE0Mjc5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.dWsPPd2II6YIoptxR16Yj0gOFVxZc51iRoO0J9zUIIc",
+    "toz": "ارسال پیام SMS به شماره"
+  },
+  {
+    "aks": "برنامه شناور",
+    "code1": "http://rubika.ir/codes_floating_window",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "شناور کردن برنامه",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/e706e477569335bf97be8f3770767c9031205175-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUwNmNhZTRkZjAxMjI4OTMyYjUxNmUxZWVlYTFlNmM3IiwiZXhwIjoxNjIwMTE0MzMxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.eLPxlTs8KIGNCi7WZWpIAvrrsaGbPn6-uFXe5aHfAMM",
+    "toz": "شما با این آموزش میتوانید برنامه خود را به صورت شناور قرار بدهید"
+  },
+  {
+    "aks": "ساخت جیمیل",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "جیمیل",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/9830d70821978a9d183b97e804fc85fc31205207-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFlYzM1ZGVhMzFkNDk4NDZhOTQ0YmZiNDRhZjg1MjM5IiwiZXhwIjoxNjIwMTE0MzY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.PsC3XP7bRJ7anDIMzv-Mw3nrddDQIxypJoi83dYpc5Q",
+    "toz": "آموزش ساخت جیمیل\n\nبرای آموزشات بعدی..."
+  },
+  {
+    "aks": "ساخت برنامه آنلاین بخش ۱",
+    "code1": ";(()av \u003d (webview1.getTitle",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "برنامه آنلاین",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/ab332014c23ee3ede0fff02f48d6243f31205228-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImMwNDM4N2EwOGFhMWU4ODQyMDEzZGE1MzYzYjU5YTc3IiwiZXhwIjoxNjIwMTE0NDA3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Wiyh_7GTthkOIurS7JDxzavIJzEJngqJMkN4SSBrvmw",
+    "toz": "آموزش ساخت برنامه آنلاین با وبلاگ بلاگفا\nقسمت ۱"
+  },
+  {
+    "aks": "ساخت برنامه آنلاین بخش ۲",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "برنامه آنلاین",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/00ff4a76959d809ea0d84178c6ffef4d31205264-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg5NzdkMzg1Njk2ZjIxYzM4NjUzMzczMWYzODQxOTA4IiwiZXhwIjoxNjIwMTE0NDQ0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.-q6oxSSNdQMqcCoaNvmJDkJTV6StOXJ24AyVR7-E8qI",
+    "toz": "آموزش ساخت برنامه آنلاین با وبلاگ بلاگفا\nقسمت ۲"
+  },
+  {
+    "aks": "ساخت بلوک",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "بلوک اضافه",
+    "namayesh": "https://aspb26.cdn.asset.aparat.com/aparat-video/553e4088b6f634717137821714840d7f31205295-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjE1ZmE0NWU4NGUwYjY1ZDdiYTMyYmQ2YTFhZTcwNDM0IiwiZXhwIjoxNjIwNzgzMTE5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.cvOI7ctbQjY-5BSL3H6lVbQ0-QDUgTSe-w0CG1-8GXs",
+    "toz": "آموزش ساخت بلوک های بیشتر خصوصی با قابلیت اشتراک گذاری"
+  },
+  {
+    "aks": "انتخاب چک باکس شرطی",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "چک باکس",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/9619705a37ed2b044a330c2bb968b37b31205325-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImM0ODViMjA1YjQ2Njk3YWYxZDkwMThlMmZiNzMxMmQ3IiwiZXhwIjoxNjIwNzgzMjQ0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.uoZNOKCepC8hvbTPc6sFuOL5q0mgL4HWqSbwlug64zg",
+    "toz": "با این آموزش میتوانید کاری کنید که کاربر بین ۸ چک باکس ۵ تا را انتخاب کند"
+  },
+  {
+    "aks": "نمایش برنامه ها",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "برنامه های شما",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/d2f0919e1d9cbb543acdb0748617e79b31205394-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImZiZjlkMWE0ODYxMmEyYWUyZDQ5M2IwYjkwNDIzNGQzIiwiZXhwIjoxNjIwNzgzMzE1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.S-HDR65G7T0IuJdPRe7fg3OQpVsKcDSpC2jq2H6RWek",
+    "toz": "ساخت برنامه ای که برنامه های نصب سده روی گوشی شما را نمایش دهد"
+  },
+  {
+    "aks": "ساخت نظرسنجی",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "نظرسنجی",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/f8779e05440c784b60d0f9cc0ff70c6531205449-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjBhMmZiYzVhZDAxZjg0MjA2ZGNjZmZmZmNjYjE5N2UyIiwiZXhwIjoxNjIwNzgzMzg1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yCgR97y-mznuTc97ZN2fUr7unKJX5nx1Oc_Cpal815Q",
+    "toz": "اموزش ساخت نظرسنجی در برنامه"
+  },
+  {
+    "aks": "دستور به منوی اسپینر",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "منوی اسپینر",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/550293701163f5de3f96ce5f8f62519931205614-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM1YzdmYzY4ZDc0MjVlOWNmOTA5NDg3OWI2NjRkOTM5IiwiZXhwIjoxNjIwNzgzNDI3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9._IwmgDXmHdtBVSMRY89iQRte5dGFDc-0hyTJvBFmn5I",
+    "toz": "آموزش دستور دادن به منوی اسپینر"
+  },
+  {
+    "aks": "ساخت مخاطب ساز",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "مخاطب ساز",
+    "namayesh": "https://aspb21.cdn.asset.aparat.com/aparat-video/c9d734393bb9dda614104cc5f28689e431205654-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg0MGE4OTY1MzM4ODk4MTQ3ZjVmNGY3OWE3N2YyZWM0IiwiZXhwIjoxNjIwNzgzNDc2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hMtmcb4ueMikeznFT09jssD-OCzjR1lG1cinBnmDb5Y",
+    "toz": "ساخت برنامه ای که بتوان با ان شماره و مخاطب ساخت"
+  },
+  {
+    "aks": "ظبط صدا",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ظبط صوت",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/3227b4197f2efc5daf1ab9cbae84e20831205680-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjFjNzQ0M2YwMzIyNWZjMjFlOWZjZjJlNzAxMGRkMjNiIiwiZXhwIjoxNjIwNzgzNTE5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Qo674kAQb1mWE7zGIZ4AOukmcoBTtequjNhBP6VP4zI",
+    "toz": "ساخت برنامه ظبط صدا"
+  },
+  {
+    "aks": "ساخت فب چند منظوره",
+    "code1": "http://rubika.ir/fab_Multipurpose_code",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "منوی فب",
+    "namayesh": "https://aspb25.cdn.asset.aparat.com/aparat-video/3c740963ffb821828a1153d0514cb62331208213-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjFlMDJkZjBmMWE4MDQ0ZThiODMyNWRjNTM3MWNiM2ZmIiwiZXhwIjoxNjIwNzgzNTU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.oIjTkIB9pMrQYH_2YrffvaT8q-SIQlwk7J-aE6977dE",
+    "toz": "ساخت منوی فب چند منظوره پیشرفته"
+  },
+  {
+    "aks": "نمایش انیمیشنی ویدجیت ها",
+    "code1": "ObjectAnimator anim \u003d new ObjectAnimator();\nanim.setTarget(_av1);\nanim.setPropertyName(_av2);\nanim.setFloatValues((float)_av3);\nanim.setDuration((long)_av4);\nanim.setInterpolator(new android.view.animation.AccelerateDecelerateInterpolator());\nanim.start();",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "نمایش",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/3442561fc8a5570bad9d6d713444320b31208526-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjAyYjYyZWEyZTIwYmE4ZDA1YTEwOTdjYTZlODg5YWM2IiwiZXhwIjoxNjIwNzgzNjAxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LSSIFUNFwE8co-F8dymwlrlZWKKkCAagdrl4_U0fzA0",
+    "toz": "نمایش انیمیشنی ویدجیت ها به صورت دانه به دانه و زیبا"
+  },
+  {
+    "aks": "ادیت تکست رنگی",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "ادیت تکست",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/2f8518761c69fb9b3f9fd5ee79ef29d731208565-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZjNTZkNGUxNDc1ZTc1YTE3MGU3NTI4ZjVlMGMyOWJmIiwiZXhwIjoxNjIwNzgzNjM2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.eg4KuPkIIjCgc82OBwN-gpTtOcl8HOEj3j_LHeyjvMo",
+    "toz": "با وارد کردن هر علامت در ادیت تکست به یک رنگ در می آید"
+  },
+  {
+    "aks": "ساخت لیست ویو",
+    "code1": "Animation animation;animation \u003d AnimationUtils.loadAnimation(\ngetApplicationContext(),android.R.anim.slide_in_left);animation.setDuration(200);linear1.startAnimation(animation); animation \u003d null;",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "لیست ویو",
+    "namayesh": "https://aspb22.cdn.asset.aparat.com/aparat-video/d247346b9f540b41bd43faaf989c245032153568-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijk4OTgyMWY1OTlhOWJjM2M5MDRmNDUxYjRlNWNjODI3IiwiZXhwIjoxNjIwOTk4NTYwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.EbsfHtxSTr8uXY4U2dRWxWXumAm5PMeZYImVcd3JZ_c",
+    "toz": "آموزش ساخت یک لیست ویو زیبا"
+  },
+  {
+    "aks": "ساخت برنامه زیبا ساز اسم",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "زیبا ساز",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/6812f60db004f11f00d3d1ea5921f5db32154153-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJlYTZmMDg1Mjg4MTE1Yzc5MTlhMWZlMWY5MDkxYzA5IiwiZXhwIjoxNjIwOTk4NjExLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.NMQ6LEtwEzDz9aO_sUCkLsaq77T46SlJeLk-ZOP7qWw",
+    "toz": "آموزش ساخت زیبا ساز اسم"
+  },
+  {
+    "aks": "ساخت اسپمر",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "اسپمر",
+    "namayesh": "https://aspb24.cdn.asset.aparat.com/aparat-video/1dc609fbbfbda0c95e4a027ac08a48f532154199-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImU1ZTNjNGRmNzYwMzgwOTQ5MmViYTg2YjkzMmU0Mzg3IiwiZXhwIjoxNjIwOTk4NjQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.3cU7cF7rLL8a1V-vwbgiUvhQut1AUoFBUdEEF6kVOoU",
+    "toz": "ساخت یک برنامه که یک پیام را به چند پیام تبدیل میکند"
+  },
+  {
+    "aks": "ساخت تب لایوت",
+    "code1": "viewPager \u003d new androidx.viewpager.widget.ViewPager(this); viewPager.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT)); MyPagerAdapter adapter \u003d new MyPagerAdapter(); viewPager.setAdapter(adapter); viewPager.setCurrentItem(0); \n\nbase.\n\naddView(viewPager); viewPager.addOnPageChangeListener(new androidx.viewpager.widget.ViewPager.OnPageChangeListener() { public void onPageSelected(int position) { position_number \u003d position;",
+    "code2": "} @Override public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) { } @Override public void onPageScrollStateChanged(int state) { } }); tabLayout \u003d new com.google.android.material.tabs.TabLayout(this); tabLayout.setTabGravity(tabLayout.GRAVITY_FILL); tabLayout.setSelectedTabIndicatorColor(Color.parseColor(\"#FFFFFF\")); tabLayout.setTabTextColors(Color.parseColor(\"#FFFFFF\"), Color.parseColor(\"#FFFFFF\")); tabLayout.setupWithViewPager(viewPager); tablayout.addView(tabLayout); } private class MyPagerAdapter extends androidx.viewpager.widget.PagerAdapter { public int getCount() { return\n\n 4\n\n\n\n; } @Override public Object instantiateItem(ViewGroup collection, int position)\n\n\n {\n\nLayoutInflater inflater \u003d (LayoutInflater) getBaseContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);\nView v \u003d inflater.inflate(R.layout.empty, null);\n\nLinearLayout container \u003d (LinearLayout) v.findViewById(R.id.linear1);\n\nif (position \u003d\u003d 0) {\nViewGroup parent \u003d (ViewGroup) layout1.getParent();\nif (parent !\u003d null) {\nparent.removeView(layout1);\n}container.addView(layout1);}\n\n\n\nelse if (position \u003d\u003d 1) {\nViewGroup parent \u003d (ViewGroup) layout2.getParent();\nif (parent !\u003d null) {\nparent.removeView(layout2);\n}container.addView(layout2);}\n\n\n\n else if (position \u003d\u003d 2) {\nViewGroup parent \u003d (ViewGroup) layout3.getParent();\nif (parent !\u003d null) {\nparent.removeView(layout3);\n}container.addView(layout3);}\n\n\nelse if (position \u003d\u003d 3) {\nViewGroup parent \u003d (ViewGroup) layout4.getParent();\nif (parent !\u003d null) {\nparent.removeView(layout4);\n}container.addView(layout4);}\n\n\n\ncollection.addView(v, 0);\nreturn v;\n}\n@Override public void destroyItem(ViewGroup collection, int position, Object view) {\ncollection.removeView((View) view);\ntrash.addView((View) view);\n}\n@Override public CharSequence getPageTitle(int position) {\nswitch (position) {\n\n\n\n\n\ncase 0:\nreturn \"کانال ها\";\n\ncase 1:\nreturn \"گروه ها\";\n\ncase 2:\nreturn \"همه\";\n\n\ncase 3:\nreturn \"پیام های شخصی\";\n\ndefault:\nreturn null;\n}\n}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n@Override public boolean isViewFromObject(View arg0, Object arg1) { return arg0 \u003d\u003d ((View) arg1);} @Override public Parcelable saveState() { return null; } } androidx.viewpager.widget.ViewPager viewPager; com.google.android.material.tabs.TabLayout tabLayout; private void foo() {",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تب لایوت",
+    "namayesh": "https://aspb24.cdn.asset.aparat.com/aparat-video/899c318b9497d75c8d25dbcdd49ed84c32154259-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY3MDhmYzBiMzc0ZjExYWI2ODU3YzViMGU1ZjY3NjE0IiwiZXhwIjoxNjIwOTk4Njg5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.szJbcXJE7hqPPe78KDV-sHbIWb6e59csnD7azvJp2fk",
+    "toz": "آموزش ساخت تب لایوت"
+  },
+  {
+    "aks": "چراغ قوه چشمک زن",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "چراغ قوه",
+    "namayesh": "https://aspb20.cdn.asset.aparat.com/aparat-video/dc3977ba4045529919aa09c76d72f60432154364-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImJhYzM4YTQ4MDZkZjFjYzMzODJhOGMwNjNhMzZhMTY2IiwiZXhwIjoxNjIwOTk4NzMyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hd7pah3DKH3XTZErtiq_8upwtNjQzepM5qGBkyA_56A",
+    "toz": "ساخت چراغ قوه چشمک زن با سیک بار"
+  },
+  {
+    "aks": "ساخت تب تارگت",
+    "code1": "https://s16.picofile.com/d/8428641218/3a99dba9-eed4-4f43-917c-7fded59cbdac/239976",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تب تارگت",
+    "namayesh": "https://aspb27.cdn.asset.aparat.com/aparat-video/0c196f86cec4f47a5d5552373f846f1332154474-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijk4YWJkZjFlOTJhMGUyNDVmYjMxZWJkM2Q3MGEzNjMwIiwiZXhwIjoxNjIwOTk4NzcyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jOtGgi6ZsMurm9QBZap-RPO9YH75I3ZrputPFEDrxdw",
+    "toz": "اموزش ساخت تب تارگت با مور بلاک پیشرفته"
+  },
+  {
+    "aks": "اعلان دائمی",
+    "code1": "/*\nDeveloper :- AauraParti YouTube channel\nPowered by :- Gopal\n*/\n\nfinal Context context \u003d getApplicationContext();\n\n\nNotificationManager notificationManager \u003d (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);\n\nIntent intent \u003d new Intent(this, MainActivity.class); \nintent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP); \nPendingIntent pendingIntent \u003d PendingIntent.getActivity(this, 0, intent, 0); \nandroidx.core.app.NotificationCompat.Builder builder; \n\n    int notificationId \u003d 1;\n    String channelId \u003d \"channel-01\";\n    String channelName \u003d \"Channel Name\";\n    int importance \u003d NotificationManager.IMPORTANCE_HIGH;\n\n    if (android.os.Build.VERSION.SDK_INT \u003e\u003d android.os.Build.VERSION_CODES.O) {\n        NotificationChannel mChannel \u003d new NotificationChannel(\n                channelId, channelName, importance);\n        notificationManager.createNotificationChannel(mChannel);\n    }\n\n   \n androidx.core.app.NotificationCompat.Builder mBuilder \u003d new androidx.core.app.NotificationCompat.Builder(context, channelId)\n            .setSmallIcon(R.drawable.icon)\n            .setContentTitle(_Title)\n            .setContentText(_Message)\n            .setAutoCancel(false)\n            .setOngoing(true)\n            .setContentIntent(pendingIntent);\n    TaskStackBuilder stackBuilder \u003d TaskStackBuilder.create(context);\n    stackBuilder.addNextIntent(intent);\n    PendingIntent resultPendingIntent \u003d stackBuilder.getPendingIntent(\n            0,\n            PendingIntent.FLAG_UPDATE_CURRENT\n    );\n    mBuilder.setContentIntent(resultPendingIntent);\n\n    notificationManager.notify(notificationId, mBuilder.build());",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "اعلان",
+    "namayesh": "https://aspb24.cdn.asset.aparat.com/aparat-video/c6a244362b906cbe1873a3dffd40245a32154523-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjEyYmY2YWQ3ODQwNzhlYmQ3NGM4NDFmNThjNDdmMDBmIiwiZXhwIjoxNjIwOTk4ODA0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.krOLCDEWSIFnKmx4PnB9NR9A1292q3Oguuly6IlqAU4",
+    "toz": "ساخت اعلانی که پاک نشه و دائمی باشه"
+  },
+  {
+    "aks": "لودینگ نقطه ای",
+    "code1": "final DilatingDotsProgressBar bar \u003d new DilatingDotsProgressBar(this); \nbar.setLayoutParams(new LinearLayout.LayoutParams(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT, android.widget.LinearLayout.LayoutParams.WRAP_CONTENT)); \n\n/*Change dots size here*/\n\nbar.setDotRadius(5); \n/*Change dots color here*/\n\nbar.setDotColors(Color.WHITE, Color.WHITE); \n/*Change total dots here*/\n\nbar.setNumberOfDots(6); \n\n/*Change \"1.5\" to \"3\". You will see what happen*/\n\nbar.setDotScaleMultiplier((float)3); \n/*Set animation speed here*/\n\nbar.setGrowthSpeed(500); \n/*Replace \"linear1\" with your layout*/\n\nlinear2.addView(bar); \n\n/*bar.hideNow();*/\n\n}\npublic static class DilatingDotDrawable extends android.graphics.drawable.Drawable {\n    private static final String TAG \u003d DilatingDotDrawable.class.getSimpleName();\n    private Paint mPaint \u003d new Paint(Paint.ANTI_ALIAS_FLAG);\n    private float radius;\n    private float maxRadius;\n    final Rect mDirtyBounds \u003d new Rect(0, 0, 0, 0);\n\n    public DilatingDotDrawable(final int color, final float radius, final float maxRadius) {\n        mPaint.setColor(color);\n        mPaint.setStyle(Paint.Style.FILL);\n        mPaint.setStrokeCap(Paint.Cap.ROUND);\n        mPaint.setStrokeJoin(Paint.Join.ROUND);\n\n        this.radius \u003d radius;\n        setMaxRadius(maxRadius);\n    }\n\n    @Override\n    public void draw(Canvas canvas) {\n        final Rect bounds \u003d getBounds();\n        canvas.drawCircle(bounds.centerX(), bounds.centerY(), radius - 1, mPaint);\n    }\n\n    @Override\n    public void setAlpha(int alpha) {\n        if (alpha !\u003d mPaint.getAlpha()) {\n            mPaint.setAlpha(alpha);\n            invalidateSelf();\n        }\n    }\n\n    @Override\n    public void setColorFilter(ColorFilter colorFilter) {\n        mPaint.setColorFilter(colorFilter);\n        invalidateSelf();\n    }\n\n    @Override\n    public int getOpacity() {\n        return PixelFormat.TRANSLUCENT;\n    }\n\n    public void setColor(int color) {\n        mPaint.setColor(color);\n        invalidateSelf();\n    }\n\n    public void setRadius(float radius) {\n        this.radius \u003d radius;\n        invalidateSelf();\n    }\n\n    public float getRadius() {\n        return radius;\n    }\n\n    @Override\n    public int getIntrinsicWidth() {\n        return (int) (maxRadius * 2) + 2;\n    }\n\n    @Override\n    public int getIntrinsicHeight() {\n        return (int) (maxRadius * 2) + 2;\n    }\n\n    public void setMaxRadius(final float maxRadius) {\n        this.maxRadius \u003d maxRadius;\n        mDirtyBounds.bottom \u003d (int) (maxRadius * 2) + 2;\n        mDirtyBounds.right \u003d (int) (maxRadius * 2) + 2;\n    }\n\n    @Override\n    public Rect getDirtyBounds() {\n        return mDirtyBounds;\n    }\n\n    @Override\n    protected void onBoundsChange(final Rect bounds) {\n        super.onBoundsChange(bounds);\n        mDirtyBounds.offsetTo(bounds.left, bounds.top);\n    }\n}\n\n\npublic static class DilatingDotsProgressBar extends View {\n    public static final String TAG \u003d DilatingDotsProgressBar.class.getSimpleName();\n    public static final double START_DELAY_FACTOR \u003d 0.35;\n    private static final float DEFAULT_GROWTH_MULTIPLIER \u003d 1.75f;\n    private static final int MIN_SHOW_TIME \u003d 500; // ms\n    private static final int MIN_DELAY \u003d 500; // ms\n    private int mDotColor;\n    private int mDotEndColor;\n    private int mAnimationDuration;\n    private int mWidthBetweenDotCenters;\n    private int mNumberDots;\n    private float mDotRadius;\n    private float mDotScaleMultiplier;\n    private float mDotMaxRadius;\n    private float mHorizontalSpacing;\n    private long mStartTime \u003d -1;\n    private boolean mShouldAnimate;\nprivate boolean mDismissed \u003d false;\n    private boolean mIsRunning \u003d false;\n    private boolean mAnimateColors \u003d false;\n    private ArrayList\u003cDilatingDotDrawable\u003e mDrawables \u003d new ArrayList\u003c\u003e();\n    private final List\u003candroid.animation.Animator\u003e mAnimations \u003d new ArrayList\u003c\u003e();\n    /** delayed runnable to stop the progress */\n    private final Runnable mDelayedHide \u003d new Runnable() {\n        @Override\n        public void run() {\n            mStartTime \u003d -1;\n            mIsRunning \u003d false;\n            setVisibility(View.GONE);\n            stopAnimations();\n        }\n    };\n\n    /** delayed runnable to start the progress */\n    private final Runnable mDelayedShow \u003d new Runnable() {\n        @Override\n        public void run() {\n            if (!mDismissed) {\n                mStartTime \u003d System.currentTimeMillis();\n                setVisibility(View.VISIBLE);\n                startAnimations();\n            }\n        }\n    };\n\n    public DilatingDotsProgressBar(Context context) {\n        this(context, null);\n    }\n\n    public DilatingDotsProgressBar(Context context, AttributeSet attrs) {\n        this(context, attrs, 0);\n    }\n\n    public DilatingDotsProgressBar(Context context, AttributeSet attrs, int defStyleAttr) {\n        super(context, attrs, defStyleAttr);\n        init(attrs);\n    }\n\n    private void init(AttributeSet attrs) {\n        //TypedArray a \u003d getContext().obtainStyledAttributes(attrs, R.styleable.DilatingDotsProgressBar);\n        //mNumberDots \u003d a.getInt(R.styleable.DilatingDotsProgressBar_dd_numDots, 3);\n        //mDotRadius \u003d a.getDimension(R.styleable.DilatingDotsProgressBar_android_radius, 8);\n        //mDotColor \u003d a.getColor(R.styleable.DilatingDotsProgressBar_android_color, 0xff9c27b0);\n        //mDotEndColor \u003d a.getColor(R.styleable.DilatingDotsProgressBar_dd_endColor, mDotColor);\n        //mDotScaleMultiplier \u003d a.getFloat(R.styleable.DilatingDotsProgressBar_dd_scaleMultiplier, DEFAULT_GROWTH_MULTIPLIER);\n        //mAnimationDuration \u003d a.getInt(R.styleable.DilatingDotsProgressBar_dd_animationDuration, 300);\n        //mHorizontalSpacing \u003d a.getDimension(R.styleable.DilatingDotsProgressBar_dd_horizontalSpacing, 12);\n        //a.recycle();\n\n\n        mNumberDots \u003d 3;\n        mDotRadius \u003d 8;\n        mDotColor \u003d Color.RED;\n        mDotEndColor \u003d mDotColor;\n        mDotScaleMultiplier \u003d DEFAULT_GROWTH_MULTIPLIER;\n        mAnimationDuration \u003d 300;\n        mHorizontalSpacing \u003d 12;\n\n\n\n        mShouldAnimate \u003d false;\n        mAnimateColors \u003d mDotColor !\u003d mDotEndColor;\n        calculateMaxRadius();\n        calculateWidthBetweenDotCenters();\n\n        initDots();\n        updateDots();\n    }\n\n    @Override\n    protected void onSizeChanged(final int w, final int h, final int oldw, final int oldh) {\n        super.onSizeChanged(w, h, oldw, oldh);\n        if (computeMaxHeight() !\u003d h || w !\u003d computeMaxWidth()) {\n            updateDots();\n        }\n    }\n\n    @Override\n    public void onDetachedFromWindow() {\n        super.onDetachedFromWindow();\n        removeCallbacks();\n    }\n\n    private void removeCallbacks() {\n        removeCallbacks(mDelayedHide);\n        removeCallbacks(mDelayedShow);\n    }\n\n    public void reset() {\n        hideNow();\n    }\n\n    /**\n     * Hide the progress view if it is visible. The progress view will not be\n     * hidden until it has been shown for at least a minimum show time. If the\n     * progress view was not yet visible, cancels showing the progress view.\n     */\n    @SuppressWarnings (\"unused\")\n    public void hide() {\n        hide(MIN_SHOW_TIME);\n    }\n\n    public void hide(int delay) {\n        mDismissed \u003d true;\n        removeCallbacks(mDelayedShow);\n        long diff \u003d System.currentTimeMillis() - mStartTime;\n        if ((diff \u003e\u003d delay) || (mStartTime \u003d\u003d -1)) {\n            mDelayedHide.run();\n        } else {\n            if ((delay - diff) \u003c\u003d 0) {\n                mDelayedHide.run();\n            } else {\n                postDelayed(mDelayedHide, delay - diff);\n            }\n        }\n    }\n\n    /**\n     * Show the progress view after waiting for a minimum delay. If\n     * during that time, hide() is called, the view is never made visible.\n     */\n    @SuppressWarnings (\"unused\")\n    public void show() {\n        show(MIN_DELAY);\n    }\n@SuppressWarnings (\"unused\")\n    public void showNow() {\n        show(0);\n    }\n\n    @SuppressWarnings (\"unused\")\n    public void hideNow() {\n        hide(0);\n    }\n\n    public void show(int delay) {\n        if (mIsRunning) {\n            return;\n        }\n\n        mIsRunning \u003d true;\n\n        mStartTime \u003d -1;\n        mDismissed \u003d false;\n        removeCallbacks(mDelayedHide);\n\n        if (delay \u003d\u003d 0) {\n            mDelayedShow.run();\n        } else {\n            postDelayed(mDelayedShow, delay);\n        }\n    }\n\n    @Override\n    protected void onDraw(Canvas canvas) {\n        if (shouldAnimate()) {\n            for (DilatingDotDrawable dot : mDrawables) {\n                dot.draw(canvas);\n            }\n        }\n    }\n\n    @Override\n    protected boolean verifyDrawable(final android.graphics.drawable.Drawable who) {\n        if (shouldAnimate()) {\n            return mDrawables.contains(who);\n        }\n        return super.verifyDrawable(who);\n    }\n\n    @Override\n    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {\n        setMeasuredDimension((int) computeMaxWidth(), (int) computeMaxHeight());\n    }\n\n    private float computeMaxHeight() {\n        return mDotMaxRadius * 2;\n    }\n\n    private float computeMaxWidth() {\n        return computeWidth() + ((mDotMaxRadius - mDotRadius) * 2);\n    }\n\n    private float computeWidth() {\n        return (((mDotRadius * 2) + mHorizontalSpacing) * mDrawables.size()) - mHorizontalSpacing;\n    }\n\n    private void calculateMaxRadius() {\n        mDotMaxRadius \u003d mDotRadius * mDotScaleMultiplier;\n    }\n\n    private void calculateWidthBetweenDotCenters() {\n        mWidthBetweenDotCenters \u003d (int) (mDotRadius * 2) + (int) mHorizontalSpacing;\n    }\n\n    private void initDots() {\n        mDrawables.clear();\n        mAnimations.clear();\n        for (int i \u003d 1; i \u003c\u003d mNumberDots; i++) {\n            final DilatingDotDrawable dot \u003d new DilatingDotDrawable(mDotColor, mDotRadius, mDotMaxRadius);\n            dot.setCallback(this);\n            mDrawables.add(dot);\n\n            final long startDelay \u003d (i - 1) * (int) (START_DELAY_FACTOR * mAnimationDuration);\n\n            // Sizing\n            android.animation.ValueAnimator growAnimator \u003d android.animation.ObjectAnimator.ofFloat(dot, \"radius\", mDotRadius, mDotMaxRadius, mDotRadius);\n            growAnimator.setDuration(mAnimationDuration);\n            growAnimator.setInterpolator(new android.view.animation.AccelerateDecelerateInterpolator());\n            if (i \u003d\u003d mNumberDots) {\n                growAnimator.addListener(new android.animation.AnimatorListenerAdapter() {\n                    @Override\n                    public void onAnimationEnd(android.animation.Animator animation) {\n                        if (shouldAnimate()) {\n                            startAnimations();\n                        }\n                    }\n                });\n            }\n            growAnimator.setStartDelay(startDelay);\n\n            mAnimations.add(growAnimator);\n\n            if (mAnimateColors) {\n                // Gradient\n                android.animation.ValueAnimator colorAnimator \u003d android.animation.ValueAnimator.ofInt(mDotEndColor, mDotColor);\n                colorAnimator.setDuration(mAnimationDuration);\n                colorAnimator.setEvaluator(new android.animation.ArgbEvaluator());\n                colorAnimator.addUpdateListener(new android.animation.ValueAnimator.AnimatorUpdateListener() {\n\n                    @Override\n                    public void onAnimationUpdate(android.animation.ValueAnimator animator) {\n                        dot.setColor((int) animator.getAnimatedValue());\n                    }\n\n                });\n                if (i \u003d\u003d mNumberDots) {\n                    colorAnimator.addListener(new android.animation.AnimatorListenerAdapter() {\n                        @Override\n                        public void onAnimationEnd(android.animation.Animator animation) {\n                            if (shouldAnimate()) {\n                                startAnimations();\n                            }\n                        }\n                    });\n                }\n                colorAnimator.setStartDelay(startDelay);\n\n                mAnimations.add(colorAnimator);\n            }\n        }\n    }\nprivate void updateDots() {\n        if (mDotRadius \u003c\u003d 0) {\n            mDotRadius \u003d getHeight() / 2 / mDotScaleMultiplier;\n        }\n\n        int left \u003d (int) (mDotMaxRadius - mDotRadius);\n        int right \u003d (int) (left + mDotRadius * 2) + 2;\n        int top \u003d 0;\n        int bottom \u003d (int) (mDotMaxRadius * 2) + 2;\n\n        for (int i \u003d 0; i \u003c mDrawables.size(); i++) {\n            final DilatingDotDrawable dot \u003d mDrawables.get(i);\n            dot.setRadius(mDotRadius);\n            dot.setBounds(left, top, right, bottom);\n            android.animation.ValueAnimator growAnimator \u003d (android.animation.ValueAnimator) mAnimations.get(i);\n            growAnimator.setFloatValues(mDotRadius, mDotRadius * mDotScaleMultiplier, mDotRadius);\n\n            left +\u003d mWidthBetweenDotCenters;\n            right +\u003d mWidthBetweenDotCenters;\n        }\n    }\n\n    protected void startAnimations() {\n        mShouldAnimate \u003d true;\n        for (android.animation.Animator anim : mAnimations) {\n            anim.start();\n        }\n    }\n\n    protected void stopAnimations() {\n        mShouldAnimate \u003d false;\n        removeCallbacks();\n        for (android.animation.Animator anim : mAnimations) {\n            anim.cancel();\n        }\n    }\n\n    protected boolean shouldAnimate() {\n        return mShouldAnimate;\n    }\n\n    // -------------------------------\n    // ------ Getters \u0026 Setters ------\n    // -------------------------------\n\n    public void setDotRadius(float radius) {\n        reset();\n        mDotRadius \u003d radius;\n        calculateMaxRadius();\n        calculateWidthBetweenDotCenters();\n        setupDots();\n    }\n\n    public void setDotSpacing(float horizontalSpacing) {\n        reset();\n        mHorizontalSpacing \u003d horizontalSpacing;\n        calculateWidthBetweenDotCenters();\n        setupDots();\n    }\n\n    public void setGrowthSpeed(int growthSpeed) {\n        reset();\n        mAnimationDuration \u003d growthSpeed;\n        setupDots();\n    }\n\n    public void setNumberOfDots(int numDots) {\n        reset();\n        mNumberDots \u003d numDots;\n        setupDots();\n    }\n\n    public void setDotScaleMultiplier(float multiplier) {\n        reset();\n        mDotScaleMultiplier \u003d multiplier;\n        calculateMaxRadius();\n        setupDots();\n    }\n\n    public void setDotColor(int color) {\n        if (color !\u003d mDotColor) {\n            if (mAnimateColors) {\n                // Cancel previous animations\n                reset();\n                mDotColor \u003d color;\n                mDotEndColor \u003d color;\n                mAnimateColors \u003d false;\n\n                setupDots();\n\n            } else {\n                mDotColor \u003d color;\n                for (DilatingDotDrawable dot : mDrawables) {\n                    dot.setColor(mDotColor);\n                }\n            }\n        }\n    }\n\n    /**\n     * Set different start and end colors for dots. This will result in gradient behaviour. In case you want set 1 solid\n     * color - use {@link #setDotColor(int)} instead\n     *\n     * @param startColor starting color of the dot\n     * @param endColor   ending color of the dot\n     */\n    public void setDotColors(int startColor, int endColor) {\n        if (mDotColor !\u003d startColor || mDotEndColor !\u003d endColor) {\n            if (mAnimateColors) {\n                reset();\n            }\n            mDotColor \u003d startColor;\n            mDotEndColor \u003d endColor;\n\n            mAnimateColors \u003d mDotColor !\u003d mDotEndColor;\n\n            setupDots();\n        }\n    }\n\n    private void setupDots() {\n        initDots();\n        updateDots();\n        showNow();\n    }\n\n    public int getDotGrowthSpeed() {\nreturn mAnimationDuration;\n    }\n\n    public float getDotRadius() {\n        return mDotRadius;\n    }\n\n    public float getHorizontalSpacing() {\n        return mHorizontalSpacing;\n    }\n\n    public int getNumberOfDots() {\n        return mNumberDots;\n    }\n\n    public float getDotScaleMultiplier() {\n        return mDotScaleMultiplier;\n    }\n}\n\n{",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "لودینگ",
+    "namayesh": "https://aspb25.cdn.asset.aparat.com/aparat-video/31df1329dc471c38e3040bbdc0f7566332154561-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjgxNDk0NDYxZGMwYTBjMmZhYzYwYjVmMjRmNzU1NThjIiwiZXhwIjoxNjIwOTk4ODQ3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.skPcGCjslVu6N503cjS_wA7_XrXkmA-e9glCOqfxJws",
+    "toz": "آموزش ساخت لودینگ نقطه ای به صورت زیبا"
+  },
+  {
+    "aks": "منوی پاپ اپ",
+    "code1": "PopupMenu popu \u003d new PopupMenu(MainActivity.this, av1);\nMenu av1 \u003d popu.getMenu();\r\nav1.add(\"سیب\");\nav1.add(\"سکه\");\nav1.add(\"سنجد\");\nav1.add(\"سیمان\");\nav1.add(\"سبزه\");\nav1.add(\"سیر\");\nav1.add(\"سمنو\");\n\npopu.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {\npublic boolean onMenuItemClick(MenuItem item) {",
+    "code2": "return true;\ndefault:\nreturn false;\r\n}\r\n} \r\n});\ntry {\njava.lang.reflect.Field[] fields \u003d popu.getClass().getDeclaredFields();\nfor (java.lang.reflect.Field field : fields) {\nif (\"mPopup\".equals(field.getName())) {\nfield.setAccessible(true);\nObject menuPopupHelper \u003d field.get(popu); Class\u003c?\u003e classPopupHelper \u003d Class.forName(menuPopupHelper.getClass().getName());\njava.lang.reflect.Method setForceIcons \u003d classPopupHelper.getMethod(\"setForceShowIcon\", boolean.class); setForceIcons.invoke(menuPopupHelper, true);\nbreak;\n}\n}\n} catch(Exception e) {\ne.printStackTrace();\n}\npopu.show();",
+    "code3": "کدی وجود ندارد.",
+    "matn": "پاپ آپ",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/5ea77285534819b494a0726150bd6f3732154605-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjFiMjUxNzhkMzAzYjE4OWQ5ZjZlMTkyMDgwZWI2ZThkIiwiZXhwIjoxNjIyMDU3OTcxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9._5mlRJKr7nAEjxJBobFySaEk0i0B5EFu_3DpQw_jc10",
+    "toz": "آموزش ساخت منوی پاپ آپ س نقطه ای"
+  },
+  {
+    "aks": "دانلود فایل از برنامه",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "دانلود فایل",
+    "namayesh": "https://aspb19.cdn.asset.aparat.com/aparat-video/834f304d11f68252e043933d9dba781032154657-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY2N2IwODIyOWRiYTFhNmZiOTUxYWQyNzg2ZDY0MDBhIiwiZXhwIjoxNjIyMDU3OTQwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.mVDZL0MYJ4edioryNLa8kxrSyaR3jBlP447NV1sWWQQ",
+    "toz": "آموزش دانلود از خود برنامه - یعنی کاربر میتونه فایل های شما رو از برنامه دانلود کنه مثل مایکت یا یه سایت یا همچین چیزی"
+  },
+  {
+    "aks": "اشتراک گذاری متن",
+    "code1": "Intent shareIntent \u003d new Intent(Intent.ACTION_SEND); shareIntent.setType(\"text/plain\"); shareIntent.putExtra(Intent.EXTRA_TEXT, (\"avplus\"));\nstartActivity(Intent.createChooser(shareIntent, \"share\"));",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "اشتراک",
+    "namayesh": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/46a8d8ebe7ee9f4273b97683a477692733665268-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIyYzM0MzlmNWMyNDRjZjJiMGI5NjY1M2NlMmVhOTM2IiwiZXhwIjoxNjIyMjkxNzU4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.XmbthMo_f2nELP1n9yb-9nFx1FbfFRnRMQ0D5jO3LBA",
+    "toz": "با این اموزش میتونید فایل های متنی داخل برنامه رو با کلیک به اشتراک بزارین خیلی ساده و کاربردی"
+  },
+  {
+    "aks": "ساخت تیتر ساز",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "تیتر",
+    "namayesh": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/b4cd9eaa3bd2e172f373fcb90377f4ca33665323-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImRjZDE1OWYyNmQ1ZGZlMDI4NzQ4ZTRlMDY3OGIwMWE3IiwiZXhwIjoxNjIyMjkxNzI5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.nOwVP-u_A93tWVh2HiG19VdCkqIcND4ixTNvdsurr-w",
+    "toz": "آموزش ساخت برنامه تیتر ساز"
+  },
+  {
+    "aks": "آموزش گرافیک \nبخش اول",
+    "code1": "//کد گرد کردن\n android.graphics.drawable.GradientDrawable AA \u003d new android.graphics.drawable.GradientDrawable();\nAA.setColor(Color.parseColor(\"#212121\"));\nAA.setCornerRadii(new float[] { 0, 0, 0, 0, 380, 380, 0, 0 });\nav1.setBackground(AA);",
+    "code2": "//پیغام رنگی\n\nLayoutInflater inflater \u003d getLayoutInflater(); View toastLayout \u003d inflater.inflate(R.layout.tostt, null);\n\nTextView textview1 \u003d (TextView) toastLayout.findViewById(R.id.textview1);\ntextview1.setText(\"متن\");\nLinearLayout linear1 \u003d (LinearLayout) toastLayout.findViewById(R.id.linear1);\n\nToast toast \u003d new Toast(getApplicationContext()); toast.setDuration(Toast.LENGTH_LONG);\ntoast.setView(toastLayout);\ntoast.show();\n\n android.graphics.drawable.GradientDrawable HEIFBEG \u003d new android.graphics.drawable.GradientDrawable();\nHEIFBEG.setColor(Color.parseColor(\"#FFC107\"));\nHEIFBEG.setCornerRadius((int)30);\nHEIFBEG.setStroke(5, Color.parseColor(\"#212121\"));\nlinear1.setBackground(HEIFBEG);",
+    "code3": "کدی وجود ندارد.",
+    "matn": "گرافیک",
+    "namayesh": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/a623b2322eedf5a91147f63b957f2f9033666024-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjA2MzVkMDkwODVmM2E1OTE5N2NhNDkxMmQ3OTIyM2QzIiwiZXhwIjoxNjIyMjkxNjk5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.OPz6-NYICWbQkE5UA3cm7Gd8R0fzfdJJB1UwHIjz5Fk",
+    "toz": "آموزش طراحی گرافیک و دیزاین داخلی اپ + مهارت های اضافه - بخش اول"
+  },
+  {
+    "aks": "آموزش گرافیک \nبخش دوم",
+    "code1": "//کد گرد کردن\n android.graphics.drawable.GradientDrawable AA \u003d new android.graphics.drawable.GradientDrawable();\nAA.setColor(Color.parseColor(\"#212121\"));\nAA.setCornerRadii(new float[] { 0, 0, 0, 0, 380, 380, 0, 0 });\nav1.setBackground(AA);",
+    "code2": "//پیغام رنگی\n\nLayoutInflater inflater \u003d getLayoutInflater(); View toastLayout \u003d inflater.inflate(R.layout.tostt, null);\n\nTextView textview1 \u003d (TextView) toastLayout.findViewById(R.id.textview1);\ntextview1.setText(\"متن\");\nLinearLayout linear1 \u003d (LinearLayout) toastLayout.findViewById(R.id.linear1);\n\nToast toast \u003d new Toast(getApplicationContext()); toast.setDuration(Toast.LENGTH_LONG);\ntoast.setView(toastLayout);\ntoast.show();\n\n android.graphics.drawable.GradientDrawable HEIFBEG \u003d new android.graphics.drawable.GradientDrawable();\nHEIFBEG.setColor(Color.parseColor(\"#FFC107\"));\nHEIFBEG.setCornerRadius((int)30);\nHEIFBEG.setStroke(5, Color.parseColor(\"#212121\"));\nlinear1.setBackground(HEIFBEG);",
+    "code3": "کدی وجود ندارد.",
+    "matn": "گرافیک",
+    "namayesh": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/7c4f1d4d80ca870e2c4b72f090cbcc6f33666360-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQ2MDFmNTQ4NmFmMzQ2YzEyMjE0YmI4YjViNjI1MTJiIiwiZXhwIjoxNjIyMjkxNjU2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.bJENHWr_V82L65X0IcpQVMgWfyESAWQAFB0LJw6_Cqs",
+    "toz": "آموزش طراحی گرافیک و دیزاین داخلی اپ + مهارت های اضافه - بخش دوم"
+  },
+  {
+    "aks": "دیالوگ باتوم شیت",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "باتوم شیت",
+    "namayesh": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/133d914ac40e10cd849bbc23bbbd8cc033666403-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjZkMTJiYzU4MWM3ZmNjMTM3NTU2Y2Q3MGNjYWZhNGQ0IiwiZXhwIjoxNjIyMjkxNjMxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.UecglfFnH3dgczE0bMjCOLJYsR5njVGA9R5I7cbkuwQ",
+    "toz": "آموزش ساخت دیالوگ جذاب باتوم شیت"
+  },
+  {
+    "aks": "صفحه دیباگ",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "دیباگ",
+    "namayesh": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/ef9cd8ac91e6390789f73b8660ed7c8d33666436-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijg3ZDM2MTZhNmY3NDVkODZlYjdmZDFjYzgzZDU5YzY5IiwiZXhwIjoxNjIyMjkxNjAxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.IDQjtOZhi9FM6oq_xF1OMS3lAlfMrv0UDCO1cKcIjPM",
+    "toz": "آموزش ساخت صفحه دیباگ - وقتی برنامه دچار مشکل شود وارد صفحه سفارشی شما میشود و اینگونه دیگر مانند یک خطای ساده بسته نمیشود"
+  },
+  {
+    "aks": "ساخت کد ویو",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "کد ویوور",
+    "namayesh": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/c77fb9d1e2554eb0308be92e241c05e233666462-480p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI3N2E2ODk3M2Q4ZWJlOWJjNjA3NWI3YzcyMTg4MDU2IiwiZXhwIjoxNjIyMjkxNTY2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.qmrbr_2BWeJ8B_7voN347NaPI1xtKjVqiIKzI6I1dqg",
+    "toz": "با این اموزش میتونین یه بخش ادیت کد و نمایش کد برای خود بسازید"
+  },
+  {
+    "aks": "ثبت نام در گیت هاب",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آموزشات سرور - بخش اول",
+    "namayesh": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/cba229f69ffb3c4ff6d9d5dc5317018933666577-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVlNGQ4ODRlMjhhOWU1NzQ2ZTU0MmU5N2RjM2FmMzczIiwiZXhwIjoxNjIyMjkxNTI2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jeZq-zaFBXV-DFPMGh1huaS22LCPO0guzpCk2AoEAjM",
+    "toz": "آموزش ثبت نام در سرور و دریافت فضای شخصی\nدو برنامه json tool و Acode را برای راحتی خود و ادامه اموزش ها از مارکت های معتبر دانلود کنید"
+  },
+  {
+    "aks": "تغییر آنلاین متن و عکس",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آموزشات سرور - بخش دوم",
+    "namayesh": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/8936bcec250472b9a445c4c64876ece333666638-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjFlYzBiNDkyNGYwMjkzMzhlZThjNDc5OWRkMzhlMjYzIiwiZXhwIjoxNjIyMjkxNDg2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.GNB_LQxxKsu_tYRoVG3E-4UM6GHj8blFzDGuFmp4cNg",
+    "toz": "شما در این قسمت یاد میگیرید که تسکت ویو و ایمیج ویو رو به سرور خودتون متصل کنید و از طریق جیسون داخل سرور اونها رو به صورت انلاین مدیریت کنین"
+  },
+  {
+    "aks": "ارسال پیغام آنلاین به برنامه",
+    "code1": "کدی وجود ندارد‌.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آموزشات سرور - بخش سوم",
+    "namayesh": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/43c9d2d9d31a6b56b407553176d33a3333666761-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY3MWU4ZTE5Yzc0MGU1YjEyZTFiZTIxZWM4ODAxZjAyIiwiZXhwIjoxNjIyMjkxNDQ0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.9AkrbyIe5sQiLM06Il1BwqkPpo3pLFwnoUnYw_TNKkk",
+    "toz": "در این بخش یاد میگیرید که از طریق گیت هاب به به برنامه خودتون پیغام ارسال کنید به صورت انلاین"
+  },
+  {
+    "aks": "مسدودیت آنلاین کاربر",
+    "code1": "String riva \u003d \"\"+Build.BRAND\n\n+\"----\"+Build.MODEL;",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آموزشات سرور - بخش چهارم",
+    "namayesh": "https://8pic.ir/uploads/edited-20210331-174050.mp4",
+    "toz": "در این اموزش فرا میگیرید که کاربران برنامه رو توسط سیستم و به صورت انلاین از برنامه محروم کنید و در صورت لزوم ان را از مسدودیت خارج کنید"
+  },
+  {
+    "aks": "تبلیغات آنلاین",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آموزشات سرور - بخش پنجم",
+    "namayesh": "https://8pic.ir/uploads/Edited-%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B5%DB%B2%DB%B0-%DB%B0%DB%B0%DB%B4%DB%B3%DB%B4%DB%B8.mp4",
+    "toz": "توسط این اموزش میتوانید در برنامه خود بخش تبلیغات بگذارید و از طریق آن کسب درامد کنید"
+  },
+  {
+    "aks": "ارسال ایمیل تایید",
+    "code1": "https://send.hojrdb.ir/send.php?email\u003d",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آموزشات سرور - بخش ششم",
+    "namayesh": "https://8pic.ir/uploads/Edited-%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B5%DB%B2%DB%B2-%DB%B1%DB%B9%DB%B4%DB%B6%DB%B0%DB%B4.mp4",
+    "toz": "توسط این اموزش میتوانید صفحه لاگین با تایید کد در جیمیل آشنایی پیدا کنید و برای خود یک صفحه ثبت نام بسازید"
+  },
+  {
+    "aks": "لیست ویو آنلاین \nپست گذاری بدون آپدیت\nافزودن پست ستونی آنلاین",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آموزشات سرور - بخش هفتم",
+    "namayesh": "https://www.aparat.com/video/video/embed/videohash/zM9lr/vt/frame",
+    "toz": "آموزش فوق پیشرفته ظبط شده اختصاصی توسط سازنده برای کاربران عزیز.\n\n•اولین منتشر کننده کل ایران\n•کپی با ذکر منبع مجاز\n•همه چی توی برنامه توضیح داده شده\n•پست گذاری آنلاین\n•کیفیت ۱۰۸۰\n• ۲۰ دقیقه\n• ۵۰۰ مگابایت"
+  },
+  {
+    "aks": "گرید ویو آنلاین \nپست گذاری بدون آپدیت\nافزودن پست ستونی/افقی آنلاین",
+    "code1": "کدی وجود ندارد.",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "آموزشات سرور - بخش هشتم",
+    "namayesh": "https://www.aparat.com/video/video/embed/videohash/tsOvR/vt/frame",
+    "toz": "آموزش فوق پیشرفته ظبط شده اختصاصی توسط سازنده برای کاربران عزیز.\n\n•اولین منتشر کننده کل ایران\n•کپی با ذکر منبع مجاز\n•همه چی توی برنامه توضیح داده شده\n•پست گذاری آنلاین\n•کیفیت ۱۰۸۰\n• ۲۰ دقیقه\n• ۵۰۰ مگابایت"
+  }
+]
