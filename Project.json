@@ -88,5 +88,15 @@
     "توضیحات": "ورود به پروفایل",
     "سایت": "https://smj.nasihosting.com/upload/Login%20With%20Profile%20Shared%20pref.swb",
     "عکس": "https://s4.uupload.ir/files/icon_snkt.png"
+  },
+  {
+    "توضیحات": "مترجم",
+    "سایت": "https://smj.nasihosting.com/upload/Translator.swb",
+    "عکس": "https://s4.uupload.ir/files/icon_5rsp.png"
+  },
+  {
+    "توضیحات": "انتخاب رنگ",
+    "سایت": "https://smj.nasihosting.com/upload/Translator.swb",
+    "عکس": "content://com.android.chrome.FileProvider/images/screenshot/16232169253586929153191999674002.png"
   }
 ]
