@@ -1,5 +1,29 @@
 [
   {
+    "متن": "روشن کردن چراغ قوه",
+    "کد": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }"
+  },
+  {
+    "متن": "خاموش کردن چراغ قوه",
+    "کد": "android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, false); } catch (android.hardware.camera2.CameraAccessException e) { }"
+  },
+  {
+    "متن": "خطای ادیت تکست",
+    "کد": "edittext1.setError(\"خطای ادیت تکست\");"
+  },
+  {
+    "متن": "رنگ نوار پایین صفحه",
+    "کد": "if (Build.VERSION.SDK_INT \u003e Build.VERSION_CODES.KITKAT) {\nWindow w \u003dthis.getWindow();\nw.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);\nw.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS); w.setNavigationBarColor(Color.parseColor(\"#FFC107\".replace(\"0xFF\" , \"#\")));\n}"
+  },
+  {
+    "متن": "کوچک نمایی عکس",
+    "کد": "if (Build.VERSION.SDK_INT \u003e Build.VERSION_CODES.KITKAT) {\nWindow w \u003dthis.getWindow();\nw.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);\nw.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS); w.setNavigationBarColor(Color.parseColor(\"#FFC107\".replace(\"0xFF\" , \"#\")));\n}"
+  },
+  {
+    "متن": "بزرگ نمایی عکس",
+    "کد": "//To set Imageview Zoom out in a project.\n\n float x\u003dimageview1.getScaleX(), y\u003dimageview1.getScaleY(),yenix\u003dx-1,yeniy\u003dy-1; imageview1.setScaleX(yenix);imageview1.setScaleY(yeniy);"
+  },
+  {
     "متن": "",
     "کد": ""
   }
