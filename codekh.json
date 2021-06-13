@@ -24,7 +24,119 @@
     "کد": "//To set Imageview Zoom out in a project.\n\n float x\u003dimageview1.getScaleX(), y\u003dimageview1.getScaleY(),yenix\u003dx-1,yeniy\u003dy-1; imageview1.setScaleX(yenix);imageview1.setScaleY(yeniy);"
   },
   {
-    "متن": "",
-    "کد": ""
+    "متن": "آمار برنامه",
+    "کد": "data:text/html, \u003c!-- Statistics by www.1abzar.com ---\u003e \u003cscript type\u003d\"text/javascript\" src\u003d\"http://1abzar.ir/abzar/tools/stat/amar-v3.php?color\u003d333333\u0026bg\u003dF7F4D9\u0026kc\u003d212121\u0026kadr\u003d4\u0026amar\u003d92t3djco64r3hsjjqmllvayv06wi0n\u0026show\u003d1|1|1|1|0|0|1\"\u003e\u003c/script\u003e\u003cdiv style\u003d\"display:none\"\u003e\u003ch3\u003e\u003ca href\u003d\"http://www.1abzar.com/abzar/stat.php\"\u003e\u0026#1570;\u0026#1605;\u0026#1575;\u0026#1585;\u0026#1711;\u0026#1740;\u0026#1585; \u0026#1608;\u0026#1576;\u0026#1604;\u0026#1575;\u0026#1711;\u003c/a\u003e\u003c/h3\u003e\u003c/div\u003e \u003c!-- Statistics by www.1abzar.com ---\u003e"
+  },
+  {
+    "متن": "نمایش درصد شارژ",
+    "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));"
+  },
+  {
+    "متن": "گرد کردن تکست ویو",
+    "کد": "android.graphics.drawable.GradientDrawable AA \u003d new android.graphics.drawable.GradientDrawable();\nAA.setColor(Color.parseColor(\"#FFC107\"));\nAA.setCornerRadii(new float[] { 50, 50, 50, 50, 50, 50, 50, 50 });\ntextview1.setBackground(AA);"
+  },
+  {
+    "متن": "گرد کردن باتون",
+    "کد": "android.graphics.drawable.GradientDrawable AD \u003d new android.graphics.drawable.GradientDrawable();\nAD.setColor(Color.parseColor(\"#FFD54F\"));\nAD.setCornerRadii(new float[] { 50, 50, 50, 50, 50, 50, 50, 50 });\nAD.setStroke(10, Color.parseColor(\"#FF3300\"));\nandroid.graphics.drawable.RippleDrawable AD_RE \u003d new android.graphics.drawable.RippleDrawable(new android.content.res.ColorStateList(new int[][]{new int[]{}}, new int[]{ Color.parseColor(\"#FF3300\")}), AD, null);\nbutton1.setBackground(AD_RE);\nif(Build.VERSION.SDK_INT \u003e\u003d 50) { button1.setElevation(7f); }"
+  },
+  {
+    "متن": "سایه",
+    "کد": "android.graphics.drawable.GradientDrawable gd \u003d new android.graphics.drawable.GradientDrawable();\ngd.setColor(Color.parseColor(\"#FFFFFF\"));\ntextview1.setBackground(gd);\n\nif (Build.VERSION.SDK_INT \u003e\u003d 21){\ntextview1.setElevation((int)30);}"
+  },
+  {
+    "متن": "دیالوگ ساده",
+    "کد": "android.graphics.drawable.GradientDrawable gd \u003d new android.graphics.drawable.GradientDrawable();\ngd.setColor(Color.parseColor(\"#FFFFFF\"));\ntextview1.setBackground(gd);\n\nif (Build.VERSION.SDK_INT \u003e\u003d 21){\ntextview1.setElevation((int)30);}"
+  },
+  {
+    "متن": "پیغام",
+    "کد": "\nSketchwareUtil.showMessage(getApplicationContext(), \"متن مورد نظر\");"
+  },
+  {
+    "متن": "ایجاد تکست ویو",
+    "کد": "//This code is use to create textview in a project.\n\nfinal TextView mytext \u003d new TextView(ProjectinActivity.this); mytext.setText(\"Your Text\"); mytext.setTextColor(0xFF000000); mytext.setLayoutParams(new LinearLayout.LayoutParams(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT, android.widget.LinearLayout.LayoutParams.WRAP_CONTENT)); linear1.addView(mytext);"
+  },
+  {
+    "متن": "ایجاد باتون",
+    "کد": "//This code is use to create button in a project.\n\nfinal Button mybutton \u003d new Button(ProjectinActivity.this); mybutton.setText(\"Your Button\"); mybutton.setLayoutParams(new LinearLayout.LayoutParams(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT, android.widget.LinearLayout.LayoutParams.WRAP_CONTENT)); linear1.addView(mybutton);،"
+  },
+  {
+    "متن": "ارسال اعلان ",
+    "کد": "/*\nDeveloper :- Aauraparti YouTube channel\nPowered by :- Gopal\n*/\n\nfinal Context context \u003d getApplicationContext();\n\n\nNotificationManager notificationManager \u003d (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);\n\nIntent intent \u003d new Intent(this, MainActivity.class); \nintent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP); \nPendingIntent pendingIntent \u003d PendingIntent.getActivity(this, 0, intent, 0); \nandroidx.core.app.NotificationCompat.Builder builder; \n\n    int notificationId \u003d 1;\n    String channelId \u003d \"channel-01\";\n    String channelName \u003d \"Channel Name\";\n    int importance \u003d NotificationManager.IMPORTANCE_HIGH;\n\n    if (android.os.Build.VERSION.SDK_INT \u003e\u003d android.os.Build.VERSION_CODES.O) {\n        NotificationChannel mChannel \u003d new NotificationChannel(\n                channelId, channelName, importance);\n        notificationManager.createNotificationChannel(mChannel);\n    }\n\n  \n androidx.core.app.NotificationCompat.Builder mBuilder \u003d new androidx.core.app.NotificationCompat.Builder(context, channelId)\n            .setSmallIcon(R.drawable.icon)\n            .setContentTitle(_av1)\n            .setContentText(_av2)\n            .setAutoCancel(true)\n            .setOngoing(false)\n            .setContentIntent(pendingIntent);\n    TaskStackBuilder stackBuilder \u003d TaskStackBuilder.create(context);\n    stackBuilder.addNextIntent(intent);\n    PendingIntent resultPendingIntent \u003d stackBuilder.getPendingIntent(\n            0,\n            PendingIntent.FLAG_UPDATE_CURRENT\n    );\n    mBuilder.setContentIntent(resultPendingIntent);\n\n    notificationManager.notify(notificationId, mBuilder.build());"
+  },
+  {
+    "متن": "نقاشی",
+    "کد": "dv \u003d new DrawingView(this);\nlinear1.addView(dv);\nmPaint \u003d new Paint();\nmPaint.setAntiAlias(true);\nmPaint.setDither(true);\nmPaint.setColor(Color.BLACK); \nmPaint.setStyle(Paint.Style.STROKE); \nmPaint.setStrokeJoin(Paint.Join.ROUND); \nmPaint.setStrokeCap(Paint.Cap.ROUND); \nmPaint.setStrokeWidth(12);\n}\nDrawingView dv; private Paint mPaint;\nprivate Canvas mCanvas;\n\npublic class DrawingView extends View {\npublic int width;\npublic int height;\nprivate Bitmap mBitmap;\nprivate Path mPath;\nprivate Paint mBitmapPaint;\nContext context; private Paint circlePaint; private Path circlePath;\n\npublic DrawingView(Context c) {\nsuper(c);\ncontext\u003dc;\nmPath \u003d new Path();\nmBitmapPaint \u003d new Paint(Paint.DITHER_FLAG); \ncirclePaint \u003d new Paint();\ncirclePath \u003d new Path();\ncirclePaint.setAntiAlias(true);\ncirclePaint.setColor(Color.BLUE); \ncirclePaint.setStyle(Paint.Style.STROKE); \ncirclePaint.setStrokeJoin(Paint.Join.MITER); \ncirclePaint.setStrokeWidth(4f);\n}\n\n@Override protected void onSizeChanged(int w, int h, int oldw, int oldh) { super.onSizeChanged(w, h, oldw, oldh); mBitmap \u003d Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888); mCanvas \u003d new Canvas(mBitmap); }\n\n@Override protected void onDraw(Canvas canvas) { super.onDraw(canvas); canvas.drawBitmap( mBitmap, 0, 0, mBitmapPaint);\ncanvas.drawPath( mPath, mPaint); canvas.drawPath( circlePath, circlePaint);\ninvalidate(); }\n\nprivate float mX, mY;\nprivate static final float TOUCH_TOLERANCE \u003d 4;\nprivate void touch_start(float x, float y) { mPath.reset(); mPath.moveTo(x, y); mX \u003d x; mY \u003d y; }\n\nprivate void touch_move(float x, float y) { float dx \u003d Math.abs(x - mX); float dy \u003d Math.abs(y - mY); if (dx \u003e\u003d TOUCH_TOLERANCE || dy \u003e\u003d TOUCH_TOLERANCE) { mPath.quadTo(mX, mY, (x + mX)/2, (y + mY)/2); mX \u003d x; mY \u003d y; circlePath.reset(); circlePath.addCircle(mX, mY, 30, Path.Direction.CW); } }\nprivate void touch_up() { mPath.lineTo(mX, mY); circlePath.reset();\nmCanvas.drawPath(mPath, mPaint);\nmPath.reset(); }\n\n@Override public boolean onTouchEvent(MotionEvent event) {\nfloat x \u003d event.getX(); float y \u003d event.getY();\nswitch (event.getAction()) {\ncase MotionEvent.ACTION_DOWN: touch_start(x, y); invalidate(); break;\ncase MotionEvent.ACTION_MOVE: touch_move(x, y); invalidate(); break;\ncase MotionEvent.ACTION_UP: touch_up(); invalidate(); break; } return true; }"
+  },
+  {
+    "متن": "رنگ قلم نقاشی",
+    "کد": "mPaint.setColor(Color.parseColor(\"#F44336\"));"
+  },
+  {
+    "متن": "سایز قلم نقاشی",
+    "کد": "mPaint.setStrokeWidth((int)سایز);"
+  },
+  {
+    "متن": "دیالوگ مشکی",
+    "کد": "setTheme(android.R.style.Theme_Material);"
+  },
+  {
+    "متن": "لیست ویو انیمیشنی",
+    "کد": "Animation animation;animation \u003d AnimationUtils.loadAnimation(\ngetApplicationContext(),android.R.anim.slide_in_left);animation.setDuration(200);linear1.startAnimation(animation); animation \u003d null;"
+  },
+  {
+    "متن": "ضد شات",
+    "کد": "getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);"
+  },
+  {
+    "متن": "اشتراک گذاری عکس",
+    "کد": "Bitmap bm \u003d ((android.graphics.drawable.BitmapDrawable) imageview1.getDrawable()).getBitmap(); try { java.io.File file \u003d new java.io.File(getExternalCacheDir() + \"/image.jpg\"); java.io.OutputStream out \u003d new java.io.FileOutputStream(file); bm.compress(Bitmap.CompressFormat.JPEG, 100, out); out.flush(); out.close(); } catch (Exception e) { showMessage(e.toString()); } Intent iten \u003d new Intent(android.content.Intent.ACTION_SEND); iten.setType(\"*/*\"); iten.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(new java.io.File(getExternalCacheDir() + \"/image.jpg\"))); startActivity(Intent.createChooser(iten, \"Send image\"));"
+  },
+  {
+    "متن": "گرد کردن تصویر",
+    "کد": "//This code is use to make image circle(Rounded).\n\n//put below code in onCreate event\nBitmap bm \u003d ((android.graphics.drawable.BitmapDrawable) imageview1.getDrawable()).getBitmap(); imageview1.setImageBitmap(getRoundedCornerBitmap(bm, 360)); \n\n\n//put below code in a more block \n\n} public static Bitmap getRoundedCornerBitmap(Bitmap bitmap, int pixels) { Bitmap output \u003d Bitmap.createBitmap(bitmap.getWidth(), bitmap.getHeight(), Bitmap.Config.ARGB_8888); Canvas canvas \u003d new Canvas(output); final int color \u003d 0xff424242; final Paint paint \u003d new Paint(); final Rect rect \u003d new Rect(0, 0, bitmap.getWidth(), bitmap.getHeight()); final RectF rectF \u003d new RectF(rect); final float roundPx \u003d pixels; paint.setAntiAlias(true); canvas.drawARGB(0, 0, 0, 0); paint.setColor(color); canvas.drawRoundRect(rectF, roundPx, roundPx, paint); paint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.SRC_IN)); canvas.drawBitmap(bitmap, rect, rect, paint); return output;"
+  },
+  {
+    "متن": "رنگ فب",
+    "کد": "_fab.setBackgroundTintList(android.content.res.ColorStateList.valueOf(Color.parseColor(\"رنگ مورد نظر خود\".replace(\"0xFF\" , \"#\"))));"
+  },
+  {
+    "متن": "تست روت",
+    "کد": "try {\n\nRuntime.getRuntime().exec(\"su\"); \n\nresultado.setText(\"Root user\");\n\n} catch (Exception e ) {\n\nresultado.setText(\"Normal user\");\nshowMessage(e.toString());\n\n}"
+  },
+  {
+    "متن": "دمای باطری",
+    "کد": "IntentFilter ifilter \u003d new IntentFilter(Intent.ACTION_BATTERY_CHANGED);\nIntent batteryStatus \u003d registerReceiver(null, ifilter);\nint temp \u003d batteryStatus.getIntExtra(BatteryManager.EXTRA_TEMPERATURE,0);\nfloat tempTwo \u003d ((float) temp) / 10;\ntextview1.setText(tempTwo + \" °C\");"
+  },
+  {
+    "متن": "دیالوگ دسترسی فیلتر شکن",
+    "کد": "Intent vi \u003d VpnService.prepare(MainActivity.this);\n\nif (vi !\u003d null) {\n\nstartActivityForResult(vi, 3); \n}"
+  },
+  {
+    "متن": "مخفی کردن نوار بالای صفحه",
+    "کد": "getSupportActionBar().hide();"
+  },
+  {
+    "متن": "حذف کردن برنامه ها",
+    "کد": "Intent startupIntent \u003d new Intent(Intent.ACTION_MAIN); \t\tstartupIntent.addCategory(Intent.CATEGORY_LAUNCHER);  \t\tfinal android.content.pm.PackageManager pm \u003d getPackageManager(); \t\tList\u003candroid.content.pm.ResolveInfo\u003e activities \u003d pm.queryIntentActivities(startupIntent,0);   \t\tCollections.sort(activities, new Comparator\u003candroid.content.pm.ResolveInfo\u003e() {  \t\t\t\tpublic int compare(android.content.pm.ResolveInfo a, android.content.pm.ResolveInfo b) {  \t\t\t\t\tandroid.content.pm.PackageManager pm \u003d getPackageManager();  \t\t\t\t\treturn String.CASE_INSENSITIVE_ORDER.compare(  \t\t\t\t\t\ta.loadLabel(pm).toString(),  \t\t\t\t\t\tb.loadLabel(pm).toString());  \t\t\t\t}  \t\t\t});   \t\tArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e adapter \u003d new ArrayAdapter\u003candroid.content.pm.ResolveInfo\u003e(  \t\t\tthis, android.R.layout.simple_list_item_1, activities) {  \t\t\tpublic View getView(int pos, View convertView, ViewGroup parent) { TextView tv \u003d new TextView(MainActivity.this);  \t\t\t\tandroid.content.pm.ResolveInfo ri \u003d getItem(pos);  \t\t\ttv.setText(ri.loadLabel(pm));  \tLinearLayout lin \u003d new LinearLayout(MainActivity.this);ImageView iv \u003d new ImageView(MainActivity.this);iv.setImageDrawable(ri.loadIcon(pm));lin.addView(iv);lin.addView(tv);tv.setGravity(Gravity.CENTER_VERTICAL);tv.setPadding(16,0,0,0);tv.setTextSize(16);tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,LinearLayout.LayoutParams.MATCH_PARENT ));LinearLayout.LayoutParams p \u003d\tnew LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT,LinearLayout.LayoutParams.MATCH_PARENT);p.width \u003d 70;p.height \u003d 70;p.bottomMargin \u003d 4;p.topMargin \u003d 4;iv.setLayoutParams(p);lin.setPadding(6,6,6,6);return lin;  \t\t\t}  \t\t};  \t\tlistview1.setAdapter(adapter); \t\t \t\tlistview1.setOnItemClickListener(new AdapterView.OnItemClickListener() {  \t\t\t\t@Override \t\t\t\tpublic void onItemClick(AdapterView adapter, View v, int position, long id) \t\t\t\t{ \t\t\t\t\tandroid.content.pm.ResolveInfo resolveInfo \u003d (android.content.pm.ResolveInfo)adapter.getItemAtPosition(position);  \t\t\t\t\tandroid.content.pm.ActivityInfo activityInfo \u003d resolveInfo.activityInfo;  \t\t\t\t\tif (activityInfo \u003d\u003d null) return;  \t\t\t\t\tUri packageURI \u003d Uri.parse(\"package:\".concat(activityInfo.applicationInfo.packageName)); Intent uninstallIntent \u003d new Intent(Intent.ACTION_DELETE, packageURI); startActivity(uninstallIntent); \t\t\t\t}  \t\t\t \t\t});;"
+  },
+  {
+    "متن": "ارسال اعلان برای اندروید ۴",
+    "کد": "Notification.Builder mBuilder \u003d new Notification.Builder(MainActivity.this);\nmBuilder.setSmallIcon(R.drawable.app_icon);\nmBuilder.setContentTitle(\"اعلان\");\nmBuilder.setContentText(\"توضیحات\");\nmBuilder.setDefaults(\nNotification.DEFAULT_SOUND\n| Notification.DEFAULT_VIBRATE);\nNotificationManager notificationManager \u003d (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);\nnotificationManager.notify((int)1, mBuilder.build());"
+  },
+  {
+    "متن": "وسط چین کردن نام برنامه",
+    "کد": "ActionBar actionBar \u003d getActionBar();\nactionBar.setDisplayShowCustomEnabled(true);\nactionBar.setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM); \nactionBar.setCustomView(getLayoutInflater().inflate(R.layout.action_bar_main, null),\n        new ActionBar.LayoutParams(\n                ActionBar.LayoutParams.WRAP_CONTENT,\n                ActionBar.LayoutParams.MATCH_PARENT,\n                Gravity.CENTER\n        )\n);"
+  },
+  {
+    "متن": "دیالوگ لودینگ",
+    "کد": "ProgressDialog pd \u003d new android.app.ProgressDialog(MainActivity.this);\n\n\t\tpd.setMessage(\"در حال بارگیری\");\n\n\t\tandroid.graphics.drawable.GradientDrawable gd \u003d new android.graphics.drawable.GradientDrawable();\n\n\t\tgd.setColor(android.graphics.Color.parseColor(\"#ffeb3b\"));\n\t\tgd.setCornerRadius(25);\n\t\tgd.setStroke(4,android.graphics.Color.parseColor(\"#000000\"));\n\t\tpd.setButton(\"لغو\", new DialogInterface.OnClickListener(){\n\n\t\t\t\t@Override\n\t\t\t\tpublic void onClick(DialogInterface p1, int p2)\n\t\t\t\t{\n\t\t\t\t\t// TODO: Implement this method\n\t\t\t\t}\n\t\t\t});\n\n\t\tpd.setCancelable(false);\n\n\t\tpd.getWindow().setBackgroundDrawable(new android.graphics.drawable.InsetDrawable(gd,25));\n\t\tpd.show();"
+  },
+  {
+    "متن": "گذاشتن گیف در برنامه",
+    "کد": "\"file:///android_asset/نام گیف\""
+  },
+  {
+    "متن": "پیغام جذاب",
+    "کد": "LayoutInflater inflater \u003d getLayoutInflater(); View toastLayout \u003d inflater.inflate(R.layout.tostt, null);\n\nTextView textview1 \u003d (TextView) toastLayout.findViewById(R.id.textview1);\ntextview1.setText(\"متن\");\nLinearLayout linear1 \u003d (LinearLayout) toastLayout.findViewById(R.id.linear1);\n\nToast toast \u003d new Toast(getApplicationContext()); toast.setDuration(Toast.LENGTH_LONG);\ntoast.setView(toastLayout);\ntoast.show();\n\n android.graphics.drawable.GradientDrawable HEIFBEG \u003d new android.graphics.drawable.GradientDrawable();\nHEIFBEG.setColor(Color.parseColor(\"#FFC107\"));\nHEIFBEG.setCornerRadius((int)30);\nHEIFBEG.setStroke(5, Color.parseColor(\"#212121\"));\nlinear1.setBackground(HEIFBEG);\n\n//made by FABIÁN MODS LTDA."
   }
 ]
