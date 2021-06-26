@@ -138,5 +138,97 @@
   {
     "متن": "پیغام جذاب",
     "کد": "LayoutInflater inflater \u003d getLayoutInflater(); View toastLayout \u003d inflater.inflate(R.layout.tostt, null);\n\nTextView textview1 \u003d (TextView) toastLayout.findViewById(R.id.textview1);\ntextview1.setText(\"متن\");\nLinearLayout linear1 \u003d (LinearLayout) toastLayout.findViewById(R.id.linear1);\n\nToast toast \u003d new Toast(getApplicationContext()); toast.setDuration(Toast.LENGTH_LONG);\ntoast.setView(toastLayout);\ntoast.show();\n\n android.graphics.drawable.GradientDrawable HEIFBEG \u003d new android.graphics.drawable.GradientDrawable();\nHEIFBEG.setColor(Color.parseColor(\"#FFC107\"));\nHEIFBEG.setCornerRadius((int)30);\nHEIFBEG.setStroke(5, Color.parseColor(\"#212121\"));\nlinear1.setBackground(HEIFBEG);\n\n//made by FABIÁN MODS LTDA."
+  },
+  {
+    "متن": "بارگذاری ادرس",
+    "کد": "startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(\"https://site.ru\")));"
+  },
+  {
+    "متن": "پنهان کردن فب",
+    "کد": "//To set fab hide in a project.\n\n_fab.setVisibility(View.GONE);"
+  },
+  {
+    "متن": "نمایش فب",
+    "کد": "// To set Show fab in project.\n\n_fab.setVisibility(View.VISIBLE);"
+  },
+  {
+    "متن": "تغییر رنگ سیکبار",
+    "کد": "seekbar1.getProgressDrawable().setColorFilter(Color.parseColor(\"#FF00FF\"), PorterDuff.Mode.SRC_IN); seekbar1.getThumb().setColorFilter(Color.parseColor(\"#FF00FF\"), PorterDuff.Mode.SRC_IN); \n\n//seekbar1 is your seekbar ID \n//#FF00FF is your RRGGBB color"
+  },
+  {
+    "متن": "تنظیم ایکون چک باکس",
+    "کد": "//To set a checkbox icon in a project.\nor to create custom checkbox.\n\ncheckbox1.setButtonDrawable(R.drawable.iconname);\n\n//iconname is an image"
+  },
+  {
+    "متن": "تغییر سایز متن",
+    "کد": "//This code is use when you want to set text size in a project.\n\ntextview1.setTextSize((float)14);"
+  },
+  {
+    "متن": "ساعت دیچیتال",
+    "کد": "//This code is use to make digitatal time or Clock in project.\n\n//Code by Md Tausif Iqbal//\nfinal DigitalClock dc \u003d new DigitalClock(this);\nlinear1.addView (dc);"
+  },
+  {
+    "متن": "اشتراک گذاری برنامه",
+    "کد": "//This code is use when you want to an app can be share on it own without using any share app to share.\n\nString apk \u003d \"\";\nString uri \u003d (getPackageName);\ntry {\nandroid.content.pm.PackageInfo pi \u003d getPackageManager().getPackageInfo(uri, android.content.pm.PackageManager.GET_ACTIVITIES);\napk \u003d pi.applicationInfo.publicSourceDir;\n} catch (Exception e) {\nshowMessage(e.toString());\n}\nIntent iten \u003d new Intent(Intent.ACTION_SEND);\niten.setType(\"*/*\");\niten.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(new java.io.File(apk)));\nstartActivity(Intent.createChooser(iten, \"Send APK\"));"
+  },
+  {
+    "متن": "ذخیره رمز وب ویو",
+    "کد": "//To set webview to save websites passwords when you sign up or in.\n webview.getSettings().setSavePassword(true);"
+  },
+  {
+    "متن": "ادیت تکست داخل دیالوگ",
+    "کد": "//This code is use to create dialog with edittext in a project.\n\n LinearLayout mylayout \u003d new LinearLayout(this); LinearLayout.LayoutParams params \u003d new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT); mylayout.setLayoutParams(params); mylayout.setOrientation(LinearLayout.VERTICAL); final EditText myedittext \u003d new EditText(this);  myedittext.setLayoutParams(new LinearLayout.LayoutParams(android.widget.LinearLayout.LayoutParams.MATCH_PARENT, android.widget.LinearLayout.LayoutParams.WRAP_CONTENT)); mylayout.addView(myedittext); dialog.setView(mylayout);"
+  },
+  {
+    "متن": "چک کردن اینترنت",
+    "کد": "//To check internet connection in a project.\n\n//put in moreblock\n\n//put this code first\n\ntry {\n\n//this is the second code\n\nconnected \u003d (Runtime.getRuntime().exec (command).waitFor() \u003d\u003d 0); } catch (Exception e){ showMessage(e.toString());}\n\n//create 2 variables, one with the name \"connected\" and the other variable with name \"command\"\n\n//put this code in variable set \"command\" to \n\nping -c 1 google.com\n\n//put one if then else block, and in the if place the \"connected\" variable and place your blocks or codes in \"then\" and \"else\" of the if block"
+  },
+  {
+    "متن": "نمایش کیبورد",
+    "کد": "edittext1.setShowSoftInputOnFocus(true);"
+  },
+  {
+    "متن": "پنهان کردن کیبورد",
+    "کد": "edittext1.setShowSoftInputOnFocus(false);"
+  },
+  {
+    "متن": "بار گزاری عکس از نت",
+    "کد": "//This code is use for imageview from url in a webview project\n\nurl \u003d\"https://google.com\";\nGlide.with(getApplicationContext()).load(Uri.parse(url)).into(imageview1);"
+  },
+  {
+    "متن": "تبدیل صدا به متن",
+    "کد": "//This code is use to create speech text in a project.\n\n//Create more block and name it extra . insert this codes below\n}\npublic static final int REQ_CODE_SPEECH_INPUT \u003d 1;\n{\n\n//Add a file picker and insert this code below.\n\n}\nbreak;\ncase REQ_CODE_SPEECH_INPUT:\nif (_resultCode \u003d\u003d RESULT_OK \u0026\u0026 null !\u003d _data) {\nArrayList\u003cString\u003e result \u003d _data.getStringArrayListExtra(android.speech.RecognizerIntent.EXTRA_RESULTS);\nedittext1.setText(result.get(0));\n\n//Add edittext 1 and button in the background of sketchware.\n\n//In the button one add this codes below.\n\nIntent intent \u003d new Intent(android.speech.RecognizerIntent.ACTION_RECOGNIZE_SPEECH); intent.putExtra(android.speech.RecognizerIntent.EXTRA_LANGUAGE_MODEL, android.speech.RecognizerIntent.LANGUAGE_MODEL_FREE_FORM); intent.putExtra(android.speech.RecognizerIntent.EXTRA_LANGUAGE, Locale.getDefault()); intent.putExtra(android.speech.RecognizerIntent.EXTRA_PROMPT, \"Speak Now\");\ntry { startActivityForResult(intent, REQ_CODE_SPEECH_INPUT); }\ncatch (ActivityNotFoundException a) {\nToast.makeText(getApplicationContext(), \"There was an error\", Toast.LENGTH_SHORT).show(); }\n\n//Finished"
+  },
+  {
+    "متن": "تبدیل متن به صدا",
+    "کد": "//This codes allows you to create text to speech in your project.\n\n\nfinal android.speech.tts.TextToSpeech t1 \u003d new android.speech.tts.TextToSpeech(getApplicationContext(), new android.speech.tts.TextToSpeech.OnInitListener() {\n@Override\npublic void onInit(int status) {  \t\t\nif(status \u003d\u003d android.speech.tts.TextToSpeech.ERROR) {\tToast.makeText(getApplicationContext(), \"Error\",Toast.LENGTH_SHORT).show();\n}\n}\n});\nbutton1.setOnClickListener(new View.OnClickListener() {\n@Override\npublic void onClick(View _v) {\nString sentence \u003d edittext1.getText().toString();  \t\tToast.makeText(getApplicationContext(), sentence,Toast.LENGTH_SHORT).show(); \t\tt1.speak(sentence,android.speech.tts.TextToSpeech.QUEUE_FLUSH, null);  \t}  } );"
+  },
+  {
+    "متن": "باز کردن برنامه",
+    "کد": "//This code is use to launch an app in your project.\n\n Intent launchIntent \u003d getPackageManager().getLaunchIntentForPackage(\"com.package.address\");  { startActivity(launchIntent);}"
+  },
+  {
+    "متن": "بستن برنامه",
+    "کد": "//This code is use when you want to close all activity at once.\n\nfinishAffinity();"
+  },
+  {
+    "متن": "دانلود فیلم از یوتیوب",
+    "کد": "//This codes is use when you want to create a youtube downloader project.\nNote:Insert 2 button and rename one to \"btn\" and rename one to \"button_container\" and set webview to \"web\". You will do all this changes on ID name.\n\nfinal List\u003cVideo\u003e videos \u003d new ArrayList\u003cVideo\u003e();\nbutton_container.setVisibility(View.GONE);\nweb.setWebViewClient(new WebViewClient(){\n@Override\npublic android.webkit.WebResourceResponse shouldInterceptRequest(android.webkit.WebView view, android.webkit.WebResourceRequest request) {\nif(request.getUrl().toString().matches(\".*googlevideo.com/videoplayback.*\")){\nVideo vid\u003dnew Video(request.getUrl().toString());\nboolean isExists \u003d false;\nfor(Video v:videos){\nif(v.size\u003d\u003dvid.size) isExists\u003dtrue;\n}\nif(!isExists) videos.add(vid);\nnew Handler(Looper.getMainLooper()).post(new Runnable(){\n@Override\npublic void run(){\nbutton_container.setVisibility(View.VISIBLE);\n}\n});\nreturn new WebResourceResponse(\"\", \"\", null);\n}\nreturn super.shouldInterceptRequest(view, request);\n}\n@Override\npublic void onPageFinished(android.webkit.WebView view, java.lang.String url) {\nvideos.clear();\nif(url.contains(\"watch?v\u003d\"))\nnew Handler().postDelayed(new Runnable(){\n@Override\npublic void run() {\nweb.loadUrl(\"javascript:document.getElementsByTagName(\u0027video\u0027)[0].play();\");\n}\n}, 1000);\n//Toast.makeText(WVYoutubeDl.this, \"Play Video First to Enable Download\",0).show();\n}\n});\nweb.setWebChromeClient(new WebChromeClient(){\n@Override\npublic void onProgressChanged(WebView view, int progress) {\nnew Handler(Looper.getMainLooper()).post(new Runnable(){\n@Override\npublic void run(){\nbutton_container.setVisibility(View.GONE);\n}\n});\n}\n});\nweb.loadUrl(\"https://youtube.com/\");\nbtn.setText(\"Download Video\");\nbtn.setOnClickListener(new View.OnClickListener(){\n@Override\npublic void onClick(View p1) {\nString[] vids\u003dnew String[videos.size()];\nfor(int i\u003d0;i\u003cvideos.size();i++){\nVideo v\u003dvideos.get(i);\nvids[i]\u003d(v.isAudioOnly?\"Audio\":\"Video\")+\" (\"+v.readableSize+\")\";\n}\nAlertDialog.Builder dlg\u003dnew AlertDialog.Builder(MainActivity.this);\ndlg.setTitle(\"Download\");\ndlg.setItems(vids, new android.content.DialogInterface.OnClickListener(){\n@Override\npublic void onClick(android.content.DialogInterface p1, int p2) {\ndownload_(videos.get(p2).url);\n}\n});\ndlg.show();\n}\n});\nshowAlert();\n}\n@Override\npublic void onBackPressed() {\nif(web.canGoBack())\nweb.goBack();\nelse\nsuper.onBackPressed();\n}\nprivate void showAlert(){\nnew AlertDialog.Builder(this).setTitle(\"WARNING\").setMessage(\"Downloading Youtube videos is against Google Terms of Service, do with your own risk.\").show();\n}\nprivate String readableFileSize(long size) {\nif(size \u003c\u003d 0) return \"0\";\nfinal String[] units \u003d new String[] { \"B\", \"kB\", \"MB\", \"GB\", \"TB\" };\nint digitGroups \u003d (int) (Math.log10(size)/Math.log10(1024));\nreturn new java.text.DecimalFormat(\"#,##0.#\").format(size/Math.pow(1024, digitGroups)) + \" \" + units[digitGroups];\n}\nprivate void download_(String url){\nDownloadManager dmgr \u003d (DownloadManager) this.getSystemService(DOWNLOAD_SERVICE);\nDownloadManager.Request request \u003d new DownloadManager.Request(android.net.Uri.parse(url));\nrequest.setAllowedNetworkTypes(\nDownloadManager.Request.NETWORK_WIFI\n| DownloadManager.Request.NETWORK_MOBILE)\n.setAllowedOverRoaming(false).setTitle(\"Download\")\n.setDescription(\"Downloading Video...\")\n.setDestinationInExternalPublicDir(\"/Download/\", System.currentTimeMillis()+\".mp4\");\ndmgr.enqueue(request);\n}\npublic class Video{\npublic String url;\npublic boolean isAudioOnly;\npublic long size;\npublic String readableSize;\npublic Video(String s){\nString ss\u003ds.replaceAll(\"\u0026range\u003d[\\\\d-]*\u0026\",\"\u0026\");\nurl\u003dss;\nisAudioOnly\u003dss.contains(\"mime\u003daudio\");\nsize\u003dLong.parseLong( ss.split(\"\u0026clen\u003d\")[1].split(\"\u0026\")[0]);\nreadableSize\u003dreadableFileSize(size);\n}"
+  },
+  {
+    "متن": "تنظیم ایکون بالای صفحه",
+    "کد": "//To set Actionbar icon.\n\ngetActionBar().setIcon(r.drawable.icon_name);"
+  },
+  {
+    "متن": "جستجو در لیست ویو",
+    "کد": "//This code is use to allows you to search items on your listview project.\n\n((ArrayAdapter)listview1.getAdapter()).getFilter().filter(edittext1.getText().toString());"
+  },
+  {
+    "متن": "تغییر رنگ متن",
+    "کد": "//To set a textview colour.\n\ntextview1.setTextColor(Color.parseColor(\"#000000\"));"
+  },
+  {
+    "متن": "دریافت متن کپی شده",
+    "کد": "//This code allows you to paste text from clipboad onto edittext.\n\nClipboardManager clipboard \u003d (ClipboardManager) getSystemService(CLIPBOARD_SERVICE); \nwidgethere.setText(clipboard.getText());\n// widgethere is a TextView, EditText, or something"
   }
 ]
