@@ -108,5 +108,15 @@
     "توضیحات": "ادیت باتون",
     "سایت": "https://smj.nasihosting.com/upload/button%20Edit.swb",
     "عکس": "https://s4.uupload.ir/files/icon_bnbs.png"
+  },
+  {
+    "توضیحات": "ظبط صدا",
+    "سایت": "https://smj.nasihosting.com/upload/Voice%20Recorder.swb",
+    "عکس": "https://s4.uupload.ir/files/icon_mnvt.png"
+  },
+  {
+    "توضیحات": "ویس چت",
+    "سایت": "https://smj.nasihosting.com/upload/chat.swb",
+    "عکس": "https://s4.uupload.ir/files/icon_rvzl.png"
   }
 ]
