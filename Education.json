@@ -1141,5 +1141,14 @@
     "matn": "متن شیشه ای",
     "namayesh": "https://www.aparat.com/video/video/embed/videohash/rUo4c/vt/frame",
     "toz": "ساخت متن شیشه ای"
+  },
+  {
+    "aks": "ساخت منوی پاپ آپ",
+    "code1": "View popupView \u003d getLayoutInflater().inflate(R.layout.popup, null); \nfinal PopupWindow popup \u003d new PopupWindow(popupView, ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT, true); \nLinearLayout lin_popup \u003d popupView.findViewById(R.id.lin_popup); \nLinearLayout lin1 \u003d popupView.findViewById(R.id.lin1); \nLinearLayout lin2 \u003d popupView.findViewById(R.id.lin2); \nLinearLayout lin_div1 \u003d popupView.findViewById(R.id.lin_div1); \nTextView text1 \u003d popupView.findViewById(R.id.text1); \nTextView text2 \u003d popupView.findViewById(R.id.text2); \nlin1.setOnClickListener(new OnClickListener() { public void onClick(View view) {\n  showMessage(\"clicked\");\n  popup.dismiss();\n } }); \nlin2.setOnClickListener(new OnClickListener() { public void onClick(View view) {\n  showMessage(\"clicked\");\n  popup.dismiss();\n } }); \nandroid.graphics.drawable.GradientDrawable round \u003d new android.graphics.drawable.GradientDrawable ();\nround.setColor (Color.parseColor(\"#FFFFFF\"));\n\nround.setCornerRadius (20);\n\nlin_popup.setBackground (round);\nlin_popup.setElevation(9); \nlin_div1.setBackgroundColor(0xFFF1F3F4);\n\npopup.setAnimationStyle(android.R.style.Animation_Dialog);\n\npopup.showAsDropDown(imageview1, 0,0);",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "پاپ منو",
+    "namayesh": "https://www.aparat.com/video/video/embed/videohash/XnVG1/vt/frame",
+    "toz": "ساخت منوی پاپ آپ به روش ساده"
   }
 ]
