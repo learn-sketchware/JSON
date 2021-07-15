@@ -1168,5 +1168,14 @@
     "matn": "یکبار مصرف",
     "namayesh": "https://www.aparat.com/video/video/embed/videohash/rThKf/vt/frame",
     "toz": "حالت یکبار مصرف دوگانه حرفه ای با قابلیت تنظیم دستور و بدون دستور و قبل از کلیک و بعد از کلیک"
+  },
+  {
+    "aks": "منوی کنار پیشرفته",
+    "code1": "final LinearLayout _nav_view \u003d (LinearLayout) findViewById(R.id._nav_view); _nav_view.setBackgroundDrawable(new android.graphics.drawable.ColorDrawable(Color.TRANSPARENT));",
+    "code2": "کدی وجود ندارد.",
+    "code3": "کدی وجود ندارد.",
+    "matn": "منوی دراور",
+    "namayesh": "https://www.aparat.com/video/video/embed/videohash/OuJsD/vt/frame",
+    "toz": "تنظیمات و ساخت حرفه ای منوی دراور سمت چپ"
   }
 ]
