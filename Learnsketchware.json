@@ -1,18 +1,7 @@
-
-[
-  {
-    "عنوان": "https://learnsk.ga/Json/pic.json"
-  },
-  {
-    "پروژه": "https://learnsk.ga/Json/project.json"
-  },
-  {
-    "کتابخانه": "https://learnsk.ga/Json/library.json"
-  },
-  {
-    "جسون بلوک": "https://learnsk.ga/Json/block.json"
-  },
-  {
-    "اسکچ کد": "https://learnsk.ga/Json/skcode.json"
-  }
-]
+{
+  "1": "https://learnsk.ga/Json/pic.json",
+  "2": "https://learnsk.ga/Json/project.json",
+  "3": "https://learnsk.ga/Json/library.json",
+  "4": "https://learnsk.ga/Json/block.json",
+  "5": "https://learnsk.ga/Json/skcode.json"
+}
