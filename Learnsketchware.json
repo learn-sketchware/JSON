@@ -5,5 +5,7 @@
   "4": "http://smjs.ml/Learn%20Sketchware/json/block.json",
   "5": "https://smjs.ml/Learn%20Sketchware/json/skcode.json",
   "6": "https://smjs.ml/Learn%20Sketchware/json/Edu.json",
-  "7": "https://smjs.ml/Learn%20Sketchware/json/dlsk.json"
+  "7": "https://smjs.ml/Learn%20Sketchware/json/dlsk.json",
+  "8": "https://smjs.ml/Learn%20Sketchware/json/masdod.json",
+  "9": "https://raw.githubusercontent.com/learn-sketchware/JSON/2020/news.json"
 }
