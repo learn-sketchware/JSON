@@ -1,22 +1,12 @@
 {
-  "SMJ-1": "عکس آموزش",
   "1": "https://smjs.ml/Learn%20Sketchware/json/pic.json",
-  "SMJ-2": "بخش پروژه ها",
   "2": "https://smjs.ml/Learn%20Sketchware/json/project.json",
-  "SMJ-3": "بخش کتابخانه ها",
   "3": "https://smjs.ml/Learn%20Sketchware/json/library.json",
-  "SMJ-4": "بخش بلوک ها",
   "4": "http://smjs.ml/Learn%20Sketchware/json/block.json",
-  "SMJ-5": "کد های اسکچور",
   "5": "https://smjs.ml/Learn%20Sketchware/json/skcode.json",
-  "SMJ-6": "بخش آموزش ها",
   "6": "https://smjs.ml/Learn%20Sketchware/json/Edu.json",
-  "SMJ-7": "دانلود اسکچور",
   "7": "https://smjs.ml/Learn%20Sketchware/json/dlsk.json",
-  "SMJ-8": "مسدودیت کاربران",
   "8": "https://smjs.ml/Learn%20Sketchware/json/masdod.json",
-  "SMJ-9": "بخش اطلاع رسانی",
-  "9": "https://smjs.ml/Learn%20Sketchware/json/masdod.json",
-  "SMJ-10": "تیک آبی",
+  "9": "https://smjs.ml/Learn%20Sketchware/json/News.json",
   "10": "https://smjs.ml/Learn%20Sketchware/json/Tick.json"
 }
